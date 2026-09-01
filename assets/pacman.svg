@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 80" width="100%" height="80">
+  <style>
+    .bg { fill: #0a0804; rx: 12px; stroke: rgba(255, 184, 0, 0.25); stroke-width: 1px; }
+    .tagline { fill: rgba(255, 184, 0, 0.7); font-family: 'JetBrains Mono', monospace, -apple-system, sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 1.5px; }
+    .dot { fill: rgba(255, 184, 0, 0.35); }
+    .pacman-top, .pacman-bottom {
+      fill: #ffb800;
+      filter: drop-shadow(0 0 8px rgba(255, 184, 0, 0.9));
+    }
+    @keyframes chompTop {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(-35deg); }
+    }
+    @keyframes chompBottom {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(35deg); }
+    }
+    @keyframes walkPacman {
+      0% { transform: translate(-30px, 0); }
+      100% { transform: translate(750px, 0); }
+    }
+    .pacman-group {
+      animation: walkPacman 10s linear infinite;
+    }
+    .p-top {
+      transform-origin: 10px 10px;
+      animation: chompTop 0.22s ease-in-out infinite alternate;
+    }
+    .p-bottom {
+      transform-origin: 10px 10px;
+      animation: chompBottom 0.22s ease-in-out infinite alternate;
+    }
+  </style>
+
+  <rect width="840" height="80" class="bg" />
+  
+  <text x="25" y="45" class="tagline">4U.IA.BR</text>
+
+  <!-- Dots Track -->
+  <g transform="translate(115, 41)">
+    <circle cx="0" cy="0" r="2.5" class="dot" />
+    <circle cx="14" cy="0" r="2.5" class="dot" />
+    <circle cx="28" cy="0" r="2.5" class="dot" />
+    <circle cx="42" cy="0" r="2.5" class="dot" />
+    <circle cx="56" cy="0" r="2.5" class="dot" />
+    <circle cx="70" cy="0" r="2.5" class="dot" />
+    <circle cx="84" cy="0" r="2.5" class="dot" />
+    <circle cx="98" cy="0" r="2.5" class="dot" />
+    <circle cx="112" cy="0" r="2.5" class="dot" />
+    <circle cx="126" cy="0" r="2.5" class="dot" />
+    <circle cx="140" cy="0" r="2.5" class="dot" />
+    <circle cx="154" cy="0" r="2.5" class="dot" />
+    <circle cx="168" cy="0" r="2.5" class="dot" />
+    <circle cx="182" cy="0" r="2.5" class="dot" />
+    <circle cx="196" cy="0" r="2.5" class="dot" />
+    <circle cx="210" cy="0" r="2.5" class="dot" />
+    <circle cx="224" cy="0" r="2.5" class="dot" />
+    <circle cx="238" cy="0" r="2.5" class="dot" />
+    <circle cx="252" cy="0" r="2.5" class="dot" />
+    <circle cx="266" cy="0" r="2.5" class="dot" />
+    <circle cx="280" cy="0" r="2.5" class="dot" />
+    <circle cx="294" cy="0" r="2.5" class="dot" />
+    <circle cx="308" cy="0" r="2.5" class="dot" />
+    <circle cx="322" cy="0" r="2.5" class="dot" />
+    <circle cx="336" cy="0" r="2.5" class="dot" />
+    <circle cx="350" cy="0" r="2.5" class="dot" />
+    <circle cx="364" cy="0" r="2.5" class="dot" />
+    <circle cx="378" cy="0" r="2.5" class="dot" />
+    <circle cx="392" cy="0" r="2.5" class="dot" />
+    <circle cx="406" cy="0" r="2.5" class="dot" />
+    <circle cx="420" cy="0" r="2.5" class="dot" />
+    <circle cx="434" cy="0" r="2.5" class="dot" />
+    <circle cx="448" cy="0" r="2.5" class="dot" />
+    <circle cx="462" cy="0" r="2.5" class="dot" />
+    <circle cx="476" cy="0" r="2.5" class="dot" />
+    <circle cx="490" cy="0" r="2.5" class="dot" />
+    <circle cx="504" cy="0" r="2.5" class="dot" />
+    <circle cx="518" cy="0" r="2.5" class="dot" />
+    <circle cx="532" cy="0" r="2.5" class="dot" />
+    <circle cx="546" cy="0" r="2.5" class="dot" />
+    <circle cx="560" cy="0" r="2.5" class="dot" />
+
+  </g>
+
+  <!-- Animated Pacman -->
+  <g transform="translate(115, 31)">
+    <g class="pacman-group">
+      <path d="M 0,10 A 10,10 0 0,1 20,10 L 10,10 Z" class="pacman-top p-top" />
+      <path d="M 0,10 A 10,10 0 0,0 20,10 L 10,10 Z" class="pacman-bottom p-bottom" />
+    </g>
+  </g>
+
+  <text x="710" y="45" class="tagline">REPROGRAME</text>
+</svg>
