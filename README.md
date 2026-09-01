@@ -91,10 +91,10 @@
 
 ---
 
-## 🐍 Atividade & Contribuições (Snake Game)
+## 🎮 4U.IA.BR Arcade Signature
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/4u-Labs/4u-Labs/main/assets/snake.svg" alt="GitHub Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/4u-Labs/4u-Labs/main/assets/pacman.svg" alt="Pacman 4U.IA.BR" width="100%" />
 </div>
 
 ---
