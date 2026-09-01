@@ -162,7 +162,7 @@
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
 | **3D Pinball Space Cadet** | Jogo Nostálgico Portado para WebAssembly (WASM) 60 FPS | [Código](https://github.com/4u-Labs/pinball) | [Acessar App](https://4u.ia.br/app/pinball/) |
-| **Loop** | Estação de Processamento de Áudio e Síntese de Voz com IA | [Código](https://github.com/4u-Labs/loop) | [Acessar App](https://4u.ia.br/app/loop/) |
+| **Loop** | Mensageiro Moderno com IA Integrada, Canais e Comunidades | [Código](https://github.com/4u-Labs/loop) | [Acessar App](https://4u.ia.br/app/loop/) |
 | **Atari Nostalgia** | Emulador de Jogos Clássicos do Atari 2600 no Navegador | [Código](https://github.com/4u-Labs/atari) | [Acessar App](https://4u.ia.br/app/atari/) |
 
 ---
