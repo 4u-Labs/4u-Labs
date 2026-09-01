@@ -112,6 +112,17 @@
 
 ---
 
+
+---
+
+## 📈 Atividade & Contribuições Contínuas
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4u-Labs&theme=tokyo-night&custom_title=Atividade%204U.IA.BR&bg_color=0d1117&color=6d4aff&line=10b981&point=38bdf8&hide_border=true" alt="Gráfico de Atividade" width="100%" />
+</div>
+
+---
+
 ## 🛠️ Stack Tecnológica & Especialidades
 
 <div align="center">
@@ -184,6 +195,7 @@
 
 ### 📬 Conecte-se com a 4U.IA.BR
 
+<a href="https://4u.ia.br/#contact"><img src="https://img.shields.io/badge/ENVIAR_MENSAGEM-FORMULÁRIO_4U.IA.BR-6d4aff?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://4u.ia.br"><img src="https://img.shields.io/badge/PORTAL_OFICIAL-4U.IA.BR-6d4aff?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 <a href="mailto:contato@4u.ia.br"><img src="https://img.shields.io/badge/E--MAIL-CONTATO%404U.IA.BR-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
