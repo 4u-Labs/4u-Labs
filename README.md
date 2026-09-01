@@ -19,7 +19,7 @@
 
 ---
 
-## 🌟 Projetos em Destaque (Showcase)
+## 🌟 Sistemas Flagship em Destaque
 
 <table>
   <tr>
@@ -30,14 +30,8 @@
         <img src="https://img.shields.io/badge/Chrome_Extension-MV3-10b981?style=flat-square" />
       </p>
       <p>
-        Gerenciador de senhas e cofre confidencial com <b>Criptografia Militar</b> executada 100% no navegador do usuário.
+        Gerenciador de senhas e cofre confidencial com <b>Criptografia Militar</b> executada 100% no navegador.
       </p>
-      <ul>
-        <li>🔒 <b>AES-GCM 256 + PBKDF2:</b> 100.000 iterações com salt seguro.</li>
-        <li>🧩 <b>Extensão Chrome MV3:</b> Captura universal e preenchimento ágil.</li>
-        <li>☁️ <b>Smart Sync:</b> Nuvem privada + Google Drive v3 com fusão inteligente.</li>
-        <li>📱 <b>PWA Offline:</b> Autenticador TOTP 2FA e bloqueio por PIN.</li>
-      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/safepass/">
           <img src="https://img.shields.io/badge/🌐_Testar_SafePass-6d4aff?style=for-the-badge" />
@@ -51,14 +45,8 @@
         <img src="https://img.shields.io/badge/Privacy-Anti--Forensic-10b981?style=flat-square" />
       </p>
       <p>
-        Plataforma de mensageria ultrassegura com <b>Criptografia Ponta a Ponta</b>, soberania digital e IA integrada.
+        Mensageria ultrassegura com <b>Criptografia Ponta a Ponta</b>, modo volátil em RAM e IA integrada.
       </p>
-      <ul>
-        <li>🔐 <b>E2EE Real:</b> Curvas elípticas ECDH P-256 e AES-GCM local.</li>
-        <li>🧠 <b>Modo Volátil em RAM:</b> Conversas temporárias sem rastro em disco.</li>
-        <li>🚨 <b>PIN de Pânico:</b> Limpeza emergencial de cofre de chaves.</li>
-        <li>🤖 <b>IA Integrada:</b> Assistente virtual conversacional no chat.</li>
-      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/zap/">
           <img src="https://img.shields.io/badge/👻_Testar_GhostZap-38bdf8?style=for-the-badge" />
@@ -74,14 +62,8 @@
         <img src="https://img.shields.io/badge/Print-CUPS_ESC%2FPOS-f43f5e?style=flat-square" />
       </p>
       <p>
-        Sistema completo de gestão para lavanderias e pequenos comércios com fluxo ágil de balcão e relatórios em tempo real.
+        Sistema SaaS de gestão para lavanderias e balcão com suporte a impressora térmica e WhatsApp.
       </p>
-      <ul>
-        <li>⚡ <b>PDV Ágil:</b> Controle de comandas, serviços, prazos e adiantamentos.</li>
-        <li>🖨️ <b>Impressão Térmica:</b> Suporte nativo a impressoras ESC/POS (CUPS).</li>
-        <li>📲 <b>WhatsApp:</b> Alertas e comprovantes automáticos para clientes.</li>
-        <li>📊 <b>Dashboard:</b> Fluxo de caixa e métricas financeiras.</li>
-      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/demolavanderia/">
           <img src="https://img.shields.io/badge/🧺_Testar_LavExpress-0ea5e9?style=for-the-badge" />
@@ -95,14 +77,8 @@
         <img src="https://img.shields.io/badge/AI-Remove_BG_%26_Upscale-8b5cf6?style=flat-square" />
       </p>
       <p>
-        Poderoso editor gráfico web estilo Photoshop com suporte completo a camadas, efeitos e ferramentas de Inteligência Artificial.
+        Editor gráfico web estilo Photoshop com suporte a camadas, filtros e ferramentas de IA.
       </p>
-      <ul>
-        <li>📑 <b>Camadas (Layers):</b> Modos de mesclagem, opacidade e máscaras.</li>
-        <li>🪄 <b>Ferramentas IA:</b> Remove-BG, Upscale e Colorize inteligente.</li>
-        <li>🛠️ <b>Filtros Avançados:</b> Curvas, matiz e shaders WebGL.</li>
-        <li>💾 <b>Exportação:</b> PNG, JPG, WEBP, GIF animado e JSON.</li>
-      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/photoclone/">
           <img src="https://img.shields.io/badge/🎨_Testar_PhotoClone-ff007f?style=for-the-badge" />
@@ -110,51 +86,51 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📄 DocScanner Pro</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Scanner-Perspective_Crop-0ea5e9?style=flat-square" />
-        <img src="https://img.shields.io/badge/OCR-Text_Extract-10b981?style=flat-square" />
-      </p>
-      <p>
-        Digitalizador inteligente de documentos com correção de perspectiva, filtros de alto contraste e exportação para PDF.
-      </p>
-      <ul>
-        <li>📐 <b>Perspectiva 4 Pontos:</b> Enquadramento e corte automático.</li>
-        <li>🪄 <b>Filtros de Documento:</b> Preto & Branco limpo e alto contraste.</li>
-        <li>📝 <b>OCR Integrado:</b> Reconhecimento óptico de caracteres.</li>
-        <li>📑 <b>PDF Multi-página:</b> Compilação em PDF direto no navegador.</li>
-      </ul>
-      <p align="center">
-        <a href="https://4u.ia.br/app/scanner/">
-          <img src="https://img.shields.io/badge/📄_Testar_DocScanner-0ea5e9?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🕹️ 3D Pinball (Space Cadet)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Engine-WebAssembly_(WASM)-654ff0?style=flat-square" />
-        <img src="https://img.shields.io/badge/Arcade-60_FPS_Native-38bdf8?style=flat-square" />
-      </p>
-      <p>
-        O lendário <b>Space Cadet 3D</b> portado com perfeição para navegadores web rodando em WebAssembly nativo.
-      </p>
-      <ul>
-        <li>🚀 <b>Performance a 60 FPS:</b> Execução pura em WebAssembly sem plugins.</li>
-        <li>🕹️ <b>Gabinete Arcade:</b> Bezel retroiluminado com efeitos visuais.</li>
-        <li>📱 <b>Multiplataforma:</b> Controles táteis no celular e teclado no PC.</li>
-        <li>🔊 <b>Áudio Clássico:</b> Trilha e efeitos sonoros originais preservados.</li>
-      </ul>
-      <p align="center">
-        <a href="https://4u.ia.br/app/pinball/">
-          <img src="https://img.shields.io/badge/🕹️_Jogar_Pinball_Online-38bdf8?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
+
+---
+
+## 🚀 Ecossistema Completo de Aplicações 4U.IA.BR (20 WebApps)
+
+### 🛡️ Segurança & Privacidade
+| Aplicação | Descrição | Repositório | Demonstração |
+| :--- | :--- | :---: | :---: |
+| **SafePass** | Gerenciador de Senhas Zero-Knowledge, PWA e Extensão Chrome | [Código](https://github.com/4u-Labs/safepass) | [Acessar App](https://4u.ia.br/app/safepass/) |
+| **GhostZap** | Mensageiro Criptografado E2EE Anti-Forense com IA | [Código](https://github.com/4u-Labs/ghostzap) | [Acessar App](https://4u.ia.br/app/zap/) |
+
+### 🎨 Design, Mídia & Criação
+| Aplicação | Descrição | Repositório | Demonstração |
+| :--- | :--- | :---: | :---: |
+| **PhotoClone** | Editor Gráfico Web com Camadas, WebGL e Ferramentas de IA | [Código](https://github.com/4u-Labs/photoclone) | [Acessar App](https://4u.ia.br/app/photoclone/) |
+| **MarcaDágua Pro** | Aplicação em Lote de Marcas D'água, Logos e Proteção | [Código](https://github.com/4u-Labs/marcadagua) | [Acessar App](https://4u.ia.br/app/marcadagua/) |
+| **Corel Web** | Editor e Manipulador de Gráficos Vetoriais SVG | [Código](https://github.com/4u-Labs/corel) | [Acessar App](https://4u.ia.br/app/corel/) |
+| **ASCII Art Studio** | Conversor de Imagens em Arte ASCII com Extensão Chrome | [Código](https://github.com/4u-Labs/ascii) | [Acessar App](https://4u.ia.br/app/ascii/) |
+
+### 📄 Produtividade, SaaS & Documentos
+| Aplicação | Descrição | Repositório | Demonstração |
+| :--- | :--- | :---: | :---: |
+| **LavExpress** | SaaS de Gestão de Lavanderia, PDV e Impressão Térmica | [Código](https://github.com/4u-Labs/lavexpress) | [Acessar App](https://4u.ia.br/app/demolavanderia/) |
+| **DocScanner Pro** | Digitalizador de Documentos com Perspectiva 4 Pontos & OCR | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
+| **4U Office Suite** | Suíte de Produtividade Web (Word, Excel, PowerPoint, PDF) | [Código](https://github.com/4u-Labs/office) | [Acessar App](https://4u.ia.br/app/office/) |
+| **Acrobat Web** | Visualizador e Manipulador Avançado de Documentos PDF | [Código](https://github.com/4u-Labs/acrobat) | [Acessar App](https://4u.ia.br/app/acrobat/) |
+| **4U Drop** | Transferência Rápida e Compartilhamento Seguro de Arquivos | [Código](https://github.com/4u-Labs/drop) | [Acessar App](https://4u.ia.br/app/drop/) |
+
+### 💻 Desenvolvimento & Automação
+| Aplicação | Descrição | Repositório | Demonstração |
+| :--- | :--- | :---: | :---: |
+| **VSCode Web** | Editor de Código Online com Destaque de Sintaxe e Abas | [Código](https://github.com/4u-Labs/vscode) | [Acessar App](https://4u.ia.br/app/vscode/) |
+| **AICode Studio** | Assistente de Código com IA e Extensão de Desenvolvimento | [Código](https://github.com/4u-Labs/aicode) | [Acessar App](https://4u.ia.br/app/aicode/) |
+| **CAD Web** | Desenho Técnico 2D/3D e Plantas Arquitetônicas | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cad/) |
+| **Project Flow** | Gerenciador de Projetos e Tarefas com Quadros Kanban | [Código](https://github.com/4u-Labs/project) | [Acessar App](https://4u.ia.br/app/project/) |
+| **Gerador 4U** | Central de Utilitários, Gerador de Senhas e QR Codes | [Código](https://github.com/4u-Labs/gerador) | [Acessar App](https://4u.ia.br/app/gerador/) |
+| **VirtualSIM** | Dashboard e Gerenciador de Números Virtuais & SMS | [Código](https://github.com/4u-Labs/virtualsim) | [Acessar App](https://4u.ia.br/app/virtualsim/) |
+
+### 🎙️ Áudio & Retrogaming
+| Aplicação | Descrição | Repositório | Demonstração |
+| :--- | :--- | :---: | :---: |
+| **3D Pinball Space Cadet** | Jogo Nostálgico Portado para WebAssembly (WASM) 60 FPS | [Código](https://github.com/4u-Labs/pinball) | [Acessar App](https://4u.ia.br/app/pinball/) |
+| **Loop** | Estação de Processamento de Áudio e Síntese de Voz com IA | [Código](https://github.com/4u-Labs/loop) | [Acessar App](https://4u.ia.br/app/loop/) |
+| **Atari Nostalgia** | Emulador de Jogos Clássicos do Atari 2600 no Navegador | [Código](https://github.com/4u-Labs/atari) | [Acessar App](https://4u.ia.br/app/atari/) |
 
 ---
 
