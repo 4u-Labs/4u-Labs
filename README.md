@@ -32,13 +32,8 @@
         <img src="https://img.shields.io/badge/Chrome_Extension-MV3-10b981?style=flat-square" />
       </p>
       <p>
-        Gerenciador de senhas e cofre confidencial de nível militar com <b>Criptografia Zero-Knowledge</b> executada 100% no navegador.
+        Gerenciador de senhas e cofre confidencial com <b>Criptografia Militar</b> executada 100% no navegador do usuário.
       </p>
-      <ul>
-        <li>🔒 <b>AES-GCM 256 + PBKDF2:</b> 100.000 iterações com salt seguro.</li>
-        <li>🧩 <b>Extensão Chrome MV3:</b> Captura universal e in-field helper.</li>
-        <li>☁️ <b>Smart Sync:</b> Nuvem privada + Google Drive v3 com fusão inteligente.</li>
-      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/safepass/">
           <img src="https://img.shields.io/badge/🌐_Testar_SafePass_Online-6d4aff?style=for-the-badge" />
@@ -54,11 +49,6 @@
       <p>
         Mensageiro ultrasseguro anti-forense com <b>Criptografia Ponta a Ponta</b>, modo volátil em RAM e IA integrada.
       </p>
-      <ul>
-        <li>🔐 <b>E2EE Real:</b> Curvas elípticas ECDH P-256 e AES-GCM local.</li>
-        <li>🧠 <b>Modo Volátil em RAM:</b> Conversas temporárias sem rastro em disco.</li>
-        <li>🚨 <b>PIN de Pânico:</b> Limpeza emergencial de cofre de chaves.</li>
-      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/zap/">
           <img src="https://img.shields.io/badge/👻_Testar_GhostZap_Online-38bdf8?style=for-the-badge" />
@@ -74,13 +64,8 @@
         <img src="https://img.shields.io/badge/Print-CUPS_ESC%2FPOS-f43f5e?style=flat-square" />
       </p>
       <p>
-        Sistema SaaS completo para lavanderias e estabelecimentos com PDV de balcão ágil, controle de comandas e impressão térmica.
+        Sistema SaaS completo para lavanderias e pequenos comércios com PDV de balcão ágil, controle de comandas e impressão térmica.
       </p>
-      <ul>
-        <li>⚡ <b>PDV Ágil:</b> Seleção de peças, prazos e adiantamentos.</li>
-        <li>🖨️ <b>Impressão Térmica:</b> Suporte nativo a impressoras ESC/POS (CUPS).</li>
-        <li>📲 <b>WhatsApp:</b> Alertas e comprovantes automáticos para clientes.</li>
-      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/demolavanderia/">
           <img src="https://img.shields.io/badge/🧺_Testar_LavExpress_Online-0ea5e9?style=for-the-badge" />
@@ -96,11 +81,6 @@
       <p>
         Poderoso editor gráfico web estilo Photoshop com suporte a camadas, filtros profissionais e ferramentas inteligentes de IA.
       </p>
-      <ul>
-        <li>📑 <b>Camadas (Layers):</b> Modos de mesclagem, opacidade e máscaras.</li>
-        <li>🪄 <b>Ferramentas IA:</b> Remove-BG, Upscale e Colorize inteligente.</li>
-        <li>💾 <b>Exportação:</b> PNG, JPG, WEBP, GIF animado e JSON.</li>
-      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/photoclone/">
           <img src="https://img.shields.io/badge/🎨_Testar_PhotoClone_Online-ff007f?style=for-the-badge" />
@@ -112,13 +92,10 @@
 
 ---
 
-
----
-
-## 📈 Atividade & Contribuições Contínuas
+## 🐍 Atividade & Contribuições (Snake Game)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4u-Labs&theme=tokyo-night&custom_title=Atividade%204U.IA.BR&bg_color=0d1117&color=6d4aff&line=10b981&point=38bdf8&hide_border=true" alt="Gráfico de Atividade" width="100%" />
+  <img src="https://raw.githubusercontent.com/4u-Labs/4u-Labs/main/assets/snake.svg" alt="GitHub Snake Animation" width="100%" />
 </div>
 
 ---
@@ -193,13 +170,15 @@
 
 <div align="center">
 
-### 📬 Conecte-se com a 4U.IA.BR
+### 📬 Fale Conosco — 4U.IA.BR
 
-<a href="https://4u.ia.br/#contact"><img src="https://img.shields.io/badge/ENVIAR_MENSAGEM-FORMULÁRIO_4U.IA.BR-6d4aff?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://4u.ia.br"><img src="https://img.shields.io/badge/PORTAL_OFICIAL-4U.IA.BR-6d4aff?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-<a href="mailto:contato@4u.ia.br"><img src="https://img.shields.io/badge/E--MAIL-CONTATO%404U.IA.BR-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://4u.ia.br/#contact"><img src="https://img.shields.io/badge/✉️_ENVIAR_MENSAGEM-FORMULÁRIO_DE_CONTATO-6d4aff?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://4u.ia.br"><img src="https://img.shields.io/badge/🌐_PORTAL_OFICIAL-4U.IA.BR-0ea5e9?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  <a href="mailto:contato@4u.ia.br"><img src="https://img.shields.io/badge/📧_E--MAIL-CONTATO%404U.IA.BR-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<br><br>
+<br>
 
 <sub>© 2026 <b>4U.IA.BR</b> — Todos os direitos reservados. Projetos proprietários protegidos.</sub>
 
