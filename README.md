@@ -33,10 +33,10 @@
         Gerenciador de senhas e cofre confidencial de nível militar com <b>Criptografia Zero-Knowledge</b> executada 100% no navegador.
       </p>
       <ul>
-        <li>🔒 Criptografia client-side AES-GCM 256 bits com PBKDF2 (100.000 iterações).</li>
-        <li>🧩 Extensão do Chrome MV3 com captura universal e preenchimento automático.</li>
-        <li>☁️ Sincronização dupla em nuvem privada e Google Drive v3 com <b>Smart Merge</b>.</li>
-        <li>📱 PWA instalável offline com gerador de senhas e autenticador TOTP 2FA.</li>
+        <li>🔒 <b>Criptografia Client-Side:</b> AES-GCM 256 bits com derivação PBKDF2 (100.000 iterações).</li>
+        <li>🧩 <b>Extensão Chrome MV3:</b> Captura universal de credenciais, preenchimento e injeção em tempo real.</li>
+        <li>☁️ <b>Smart Sync:</b> Sincronização em nuvem privada e Google Drive v3 com motor de fusão inteligente.</li>
+        <li>📱 <b>PWA Offline:</b> Gerador de senhas fortes, auditoria de força e autenticador TOTP 2FA.</li>
       </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/safepass/">
@@ -51,13 +51,13 @@
         <img src="https://img.shields.io/badge/Thermal_Print-CUPS_ESC%2FPOS-f43f5e?style=flat-square" />
       </p>
       <p>
-        Sistema completo de gerenciamento para lavanderias e pequenos comércios com fluxo de balcão ágil e relatórios em tempo real.
+        Sistema completo de gestão para lavanderias e estabelecimentos comerciais com fluxo ágil de balcão e relatórios em tempo real.
       </p>
       <ul>
-        <li>⚡ PDV de alta agilidade para abertura de comandas, peças e serviços.</li>
-        <li>🖨️ Integração nativa com impressoras térmicas (Bematech MP-4200 TH / ESC-POS).</li>
-        <li>📲 Notificações de retirada de roupas e comprovantes via WhatsApp.</li>
-        <li>📊 Dashboard financeiro completo com controle de despesas e lucros.</li>
+        <li>⚡ <b>PDV Ágil:</b> Controle de comandas, peças, prazos, descontos e adiantamentos.</li>
+        <li>🖨️ <b>Impressão Térmica:</b> Integração direta com impressoras de recibos (Bematech MP-4200 TH / ESC-POS).</li>
+        <li>📲 <b>Notificações WhatsApp:</b> Envio de comprovantes e alertas de roupas prontas com 1 clique.</li>
+        <li>📊 <b>Dashboard Financeiro:</b> Fluxo de caixa, controle de despesas e métricas de desempenho.</li>
       </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/demolavanderia/">
@@ -76,17 +76,17 @@
 
 | Área | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Frontend & UX** | , , , , ,  |
-| **Extensões & Navegador** | , , ,  |
-| **Segurança & Criptografia** | , , , ,  |
-| **Backend & Banco de Dados** | , , , ,  |
-| **Hardware & Infraestrutura** | , , ,  |
+| **Frontend & UX** | `JavaScript (ES6+)`, `HTML5 Semântico`, `CSS3 Moderno`, `Glassmorphism UI`, `PWA`, `Single Page Apps (SPA)` |
+| **Extensões & Navegador** | `Chrome Extensions API (Manifest V3)`, `Service Workers`, `Content Scripts`, `DOM Shadow Roots` |
+| **Segurança & Criptografia** | `Web Crypto API`, `AES-GCM 256`, `PBKDF2 Derivation`, `Zero-Knowledge Vaults`, `Google Identity OAuth 2.0` |
+| **Backend & Banco de Dados** | `PHP 8+`, `SQLite3 (WAL Mode)`, `REST APIs`, `Google Drive REST API v3`, `Session Security` |
+| **Hardware & Infraestrutura** | `Linux (Ubuntu / Debian / Zorin OS)`, `CUPS Printing Subsystem`, `Hostinger Web Servers`, `Apache / FTP Automation` |
 
 </div>
 
 ---
 
-## 📊 Estatísticas do Desenvolvedor
+## 📊 Estatísticas & Atividade
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4u-Labs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d4aff&icon_color=10b981" height="165" alt="Estatísticas GitHub" />
