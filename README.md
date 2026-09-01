@@ -4,10 +4,9 @@
 ### **Sistemas Web de Alta Performance • Criptografia Client-Side • Automação & SaaS**
 
 <p align="center">
-  <a href="https://4u.ia.br"><img src="https://img.shields.io/badge/Website-4u.ia.br-6d4aff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <img src="https://img.shields.io/badge/Status-Inovando_Diariamente-10b981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Arquitetura-Zero--Knowledge_%26_WASM-f59e0b?style=for-the-badge&logo=shield&logoColor=white" alt="Security" />
-  <img src="https://komarev.com/ghpvc/?username=4u-Labs&base=1000&color=6d4aff&style=for-the-badge&label=VISITAS" alt="Contador de Visitas" />
+  <a href="https://4u.ia.br/#contact"><img src="https://img.shields.io/badge/✉️_FALE_CONOSCO-FORMULÁRIO_DE_CONTATO-6d4aff?style=for-the-badge&logo=telegram&logoColor=white" alt="Formulário de Contato" /></a>
+  <a href="https://4u.ia.br"><img src="https://img.shields.io/badge/Website-4u.ia.br-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <img src="https://komarev.com/ghpvc/?username=4u-Labs&base=1000&color=10b981&style=for-the-badge&label=VISITAS" alt="Contador de Visitas" />
 </p>
 
 <!-- Typing SVG Animation -->
