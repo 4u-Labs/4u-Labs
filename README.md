@@ -23,45 +23,63 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h3 align="center">🛡️ SafePass</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Zero--Knowledge-PBKDF2_%2B_AES--GCM_256-6d4aff?style=flat-square" />
-        <img src="https://img.shields.io/badge/Chrome_Extension-Manifest_V3-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero--Knowledge-PBKDF2_%2B_AES-6d4aff?style=flat-square" />
       </p>
       <p>
-        Gerenciador de senhas e cofre confidencial de nível militar com <b>Criptografia Zero-Knowledge</b> executada 100% no navegador.
+        Gerenciador de senhas e cofre confidencial com <b>Criptografia Militar</b> executada 100% no navegador do usuário.
       </p>
       <ul>
-        <li>🔒 <b>Criptografia Client-Side:</b> AES-GCM 256 bits com derivação PBKDF2 (100.000 iterações).</li>
-        <li>🧩 <b>Extensão Chrome MV3:</b> Captura universal de credenciais, preenchimento e injeção em tempo real.</li>
-        <li>☁️ <b>Smart Sync:</b> Sincronização em nuvem privada e Google Drive v3 com motor de fusão inteligente.</li>
-        <li>📱 <b>PWA Offline:</b> Gerador de senhas fortes, auditoria de força e autenticador TOTP 2FA.</li>
+        <li>🔒 <b>AES-GCM 256 + PBKDF2:</b> Derivação com 100.000 iterações.</li>
+        <li>🧩 <b>Extensão Chrome MV3:</b> Captura e preenchimento instantâneo.</li>
+        <li>☁️ <b>Smart Sync:</b> Nuvem privada + Google Drive v3.</li>
+        <li>📱 <b>PWA Offline:</b> Autenticador TOTP 2FA integrado.</li>
       </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/safepass/">
-          <img src="https://img.shields.io/badge/🌐_Testar_SafePass_Online-4u.ia.br%2Fapp%2Fsafepass-6d4aff?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/🌐_Testar_SafePass-6d4aff?style=for-the-badge" />
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h3 align="center">🧺 LavExpress</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/SaaS-Gestão_%26_PDV-0ea5e9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Thermal_Print-CUPS_ESC%2FPOS-f43f5e?style=flat-square" />
       </p>
       <p>
-        Sistema completo de gestão para lavanderias e estabelecimentos comerciais com fluxo ágil de balcão e relatórios em tempo real.
+        Sistema completo de gestão para lavanderias e pequenos comércios com fluxo ágil de balcão e relatórios em tempo real.
       </p>
       <ul>
-        <li>⚡ <b>PDV Ágil:</b> Controle de comandas, peças, prazos, descontos e adiantamentos.</li>
-        <li>🖨️ <b>Impressão Térmica:</b> Integração direta com impressoras de recibos (Bematech MP-4200 TH / ESC-POS).</li>
-        <li>📲 <b>Notificações WhatsApp:</b> Envio de comprovantes e alertas de roupas prontas com 1 clique.</li>
-        <li>📊 <b>Dashboard Financeiro:</b> Fluxo de caixa, controle de despesas e métricas de desempenho.</li>
+        <li>⚡ <b>PDV Ágil:</b> Comandas, serviços e prazos.</li>
+        <li>🖨️ <b>Impressão Térmica:</b> Suporte nativo CUPS / ESC-POS.</li>
+        <li>📲 <b>WhatsApp:</b> Alertas e comprovantes em 1 clique.</li>
+        <li>📊 <b>Dashboard:</b> Controle financeiro e de despesas.</li>
       </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/demolavanderia/">
-          <img src="https://img.shields.io/badge/🧺_Testar_Demo_LavExpress-4u.ia.br%2Fapp%2Fdemolavanderia-0ea5e9?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/🧺_Testar_LavExpress-0ea5e9?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h3 align="center">🎨 PhotoClone</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Editor-Canvas_%26_IA-ff007f?style=flat-square" />
+      </p>
+      <p>
+        Poderoso editor gráfico web estilo Photoshop com suporte completo a camadas, efeitos e ferramentas de Inteligência Artificial.
+      </p>
+      <ul>
+        <li>📑 <b>Camadas (Layers):</b> Modos de mesclagem e máscaras.</li>
+        <li>🪄 <b>Ferramentas IA:</b> Remove-BG, Upscale e Colorize.</li>
+        <li>🛠️ <b>Filtros Avançados:</b> Curvas, matiz e efeitos WebGL.</li>
+        <li>💾 <b>Exportação:</b> PNG, JPG, WEBP, GIF e JSON.</li>
+      </ul>
+      <p align="center">
+        <a href="https://4u.ia.br/app/photoclone/">
+          <img src="https://img.shields.io/badge/🎨_Testar_PhotoClone-ff007f?style=for-the-badge" />
         </a>
       </p>
     </td>
@@ -86,21 +104,12 @@
 
 ---
 
-## 📊 Estatísticas & Atividade
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4u-Labs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d4aff&icon_color=10b981" height="165" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4u-Labs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d4aff" height="165" alt="Linguagens mais usadas" />
-</div>
-
----
-
 <div align="center">
 
 ### 📬 Conecte-se com a 4U.IA.BR
 
-<a href="https://4u.ia.br"><img src="https://img.shields.io/badge/Portal_Oficial-4u.ia.br-6d4aff?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-<a href="mailto:fabianombraga@gmail.com"><img src="https://img.shields.io/badge/E--mail-fabianombraga@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://4u.ia.br"><img src="https://img.shields.io/badge/PORTAL_OFICIAL-4U.IA.BR-6d4aff?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+<a href="mailto:contato@4u.ia.br"><img src="https://img.shields.io/badge/E--MAIL-CONTATO%404U.IA.BR-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br><br>
 
