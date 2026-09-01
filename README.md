@@ -33,7 +33,7 @@
         Gerenciador de senhas e cofre confidencial com <b>Criptografia Militar</b> executada 100% no navegador do usuário.
       </p>
       <ul>
-        <li>🔒 <b>AES-GCM 256 + PBKDF2:</b> Derivação segura com 100.000 iterações.</li>
+        <li>🔒 <b>AES-GCM 256 + PBKDF2:</b> 100.000 iterações com salt seguro.</li>
         <li>🧩 <b>Extensão Chrome MV3:</b> Captura universal e preenchimento ágil.</li>
         <li>☁️ <b>Smart Sync:</b> Nuvem privada + Google Drive v3 com fusão inteligente.</li>
         <li>📱 <b>PWA Offline:</b> Autenticador TOTP 2FA e bloqueio por PIN.</li>
@@ -51,11 +51,11 @@
         <img src="https://img.shields.io/badge/Privacy-Anti--Forensic-10b981?style=flat-square" />
       </p>
       <p>
-        Plataforma de mensageria ultrassegura com <b>Criptografia Ponta a Ponta</b>, soberania digital e inteligência artificial integrada.
+        Plataforma de mensageria ultrassegura com <b>Criptografia Ponta a Ponta</b>, soberania digital e IA integrada.
       </p>
       <ul>
         <li>🔐 <b>E2EE Real:</b> Curvas elípticas ECDH P-256 e AES-GCM local.</li>
-        <li>🧠 <b>Modo Volátil em RAM:</b> Mensagens temporárias sem rastro em disco.</li>
+        <li>🧠 <b>Modo Volátil em RAM:</b> Conversas temporárias sem rastro em disco.</li>
         <li>🚨 <b>PIN de Pânico:</b> Limpeza emergencial de cofre de chaves.</li>
         <li>🤖 <b>IA Integrada:</b> Assistente virtual conversacional no chat.</li>
       </ul>
@@ -112,23 +112,23 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎙️ Loop</h3>
+      <h3 align="center">📄 DocScanner Pro</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Audio-Web_Audio_API-10b981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Voice-AI_Synthesis-6d4aff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Scanner-Perspective_Crop-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/badge/OCR-Text_Extract-10b981?style=flat-square" />
       </p>
       <p>
-        Estação de áudio inteligente, síntese de voz e assistente conversacional com processamento em tempo real.
+        Digitalizador inteligente de documentos com correção de perspectiva, filtros de alto contraste e exportação para PDF.
       </p>
       <ul>
-        <li>🔊 <b>Visualização Sonora:</b> Waveforms dinâmicos e filtros de áudio.</li>
-        <li>🤖 <b>Interação por Voz:</b> Transcrição e resposta conversacional.</li>
-        <li>💎 <b>Design Glassmorphism:</b> Interface ultra-moderna e fluida.</li>
-        <li>📱 <b>PWA Offline:</b> Execução ágil em qualquer dispositivo.</li>
+        <li>📐 <b>Perspectiva 4 Pontos:</b> Enquadramento e corte automático.</li>
+        <li>🪄 <b>Filtros de Documento:</b> Preto & Branco limpo e alto contraste.</li>
+        <li>📝 <b>OCR Integrado:</b> Reconhecimento óptico de caracteres.</li>
+        <li>📑 <b>PDF Multi-página:</b> Compilação em PDF direto no navegador.</li>
       </ul>
       <p align="center">
-        <a href="https://4u.ia.br/app/loop/">
-          <img src="https://img.shields.io/badge/🎙️_Testar_Loop-6d4aff?style=for-the-badge" />
+        <a href="https://4u.ia.br/app/scanner/">
+          <img src="https://img.shields.io/badge/📄_Testar_DocScanner-0ea5e9?style=for-the-badge" />
         </a>
       </p>
     </td>
