@@ -7,12 +7,14 @@
   <a href="https://4u.ia.br"><img src="https://img.shields.io/badge/Website-4u.ia.br-6d4aff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <img src="https://img.shields.io/badge/Status-Inovando_Diariamente-10b981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Arquitetura-Zero--Knowledge_%26_WASM-f59e0b?style=for-the-badge&logo=shield&logoColor=white" alt="Security" />
+  <img src="https://komarev.com/ghpvc/?username=4u-Labs&color=6d4aff&style=for-the-badge&label=VISITAS" alt="Contador de Visitas" />
 </p>
 
----
-
+<!-- Typing SVG Animation -->
 <p align="center">
-  <i>"Transformando lógica complexa em experiências digitais simples, rápidas e ultra-seguras."</i>
+  <a href="https://4u.ia.br">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=6D4AFF&center=true&vCenter=true&width=750&lines=Desenvolvendo+solu%C3%A7%C3%B5es+Web+%26+SaaS+de+Alta+Performance...;Especialista+em+Criptografia+Zero-Knowledge+%26+Extens%C3%B5es+MV3...;Aplica%C3%A7%C3%B5es+Inteligentes%2C+WebAssembly+%26+PWA+Offline...;Transformando+l%C3%B3gica+complexa+em+sistemas+simples+e+seguros." alt="Typing SVG" />
+  </a>
 </p>
 
 </div>
@@ -30,11 +32,16 @@
         <img src="https://img.shields.io/badge/Chrome_Extension-MV3-10b981?style=flat-square" />
       </p>
       <p>
-        Gerenciador de senhas e cofre confidencial com <b>Criptografia Militar</b> executada 100% no navegador.
+        Gerenciador de senhas e cofre confidencial de nível militar com <b>Criptografia Zero-Knowledge</b> executada 100% no navegador.
       </p>
+      <ul>
+        <li>🔒 <b>AES-GCM 256 + PBKDF2:</b> 100.000 iterações com salt seguro.</li>
+        <li>🧩 <b>Extensão Chrome MV3:</b> Captura universal e in-field helper.</li>
+        <li>☁️ <b>Smart Sync:</b> Nuvem privada + Google Drive v3 com fusão inteligente.</li>
+      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/safepass/">
-          <img src="https://img.shields.io/badge/🌐_Testar_SafePass-6d4aff?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/🌐_Testar_SafePass_Online-6d4aff?style=for-the-badge" />
         </a>
       </p>
     </td>
@@ -45,11 +52,16 @@
         <img src="https://img.shields.io/badge/Privacy-Anti--Forensic-10b981?style=flat-square" />
       </p>
       <p>
-        Mensageria ultrassegura com <b>Criptografia Ponta a Ponta</b>, modo volátil em RAM e IA integrada.
+        Mensageiro ultrasseguro anti-forense com <b>Criptografia Ponta a Ponta</b>, modo volátil em RAM e IA integrada.
       </p>
+      <ul>
+        <li>🔐 <b>E2EE Real:</b> Curvas elípticas ECDH P-256 e AES-GCM local.</li>
+        <li>🧠 <b>Modo Volátil em RAM:</b> Conversas temporárias sem rastro em disco.</li>
+        <li>🚨 <b>PIN de Pânico:</b> Limpeza emergencial de cofre de chaves.</li>
+      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/zap/">
-          <img src="https://img.shields.io/badge/👻_Testar_GhostZap-38bdf8?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/👻_Testar_GhostZap_Online-38bdf8?style=for-the-badge" />
         </a>
       </p>
     </td>
@@ -62,11 +74,16 @@
         <img src="https://img.shields.io/badge/Print-CUPS_ESC%2FPOS-f43f5e?style=flat-square" />
       </p>
       <p>
-        Sistema SaaS de gestão para lavanderias e balcão com suporte a impressora térmica e WhatsApp.
+        Sistema SaaS completo para lavanderias e estabelecimentos com PDV de balcão ágil, controle de comandas e impressão térmica.
       </p>
+      <ul>
+        <li>⚡ <b>PDV Ágil:</b> Seleção de peças, prazos e adiantamentos.</li>
+        <li>🖨️ <b>Impressão Térmica:</b> Suporte nativo a impressoras ESC/POS (CUPS).</li>
+        <li>📲 <b>WhatsApp:</b> Alertas e comprovantes automáticos para clientes.</li>
+      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/demolavanderia/">
-          <img src="https://img.shields.io/badge/🧺_Testar_LavExpress-0ea5e9?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/🧺_Testar_LavExpress_Online-0ea5e9?style=for-the-badge" />
         </a>
       </p>
     </td>
@@ -77,16 +94,45 @@
         <img src="https://img.shields.io/badge/AI-Remove_BG_%26_Upscale-8b5cf6?style=flat-square" />
       </p>
       <p>
-        Editor gráfico web estilo Photoshop com suporte a camadas, filtros e ferramentas de IA.
+        Poderoso editor gráfico web estilo Photoshop com suporte a camadas, filtros profissionais e ferramentas inteligentes de IA.
       </p>
+      <ul>
+        <li>📑 <b>Camadas (Layers):</b> Modos de mesclagem, opacidade e máscaras.</li>
+        <li>🪄 <b>Ferramentas IA:</b> Remove-BG, Upscale e Colorize inteligente.</li>
+        <li>💾 <b>Exportação:</b> PNG, JPG, WEBP, GIF animado e JSON.</li>
+      </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/photoclone/">
-          <img src="https://img.shields.io/badge/🎨_Testar_PhotoClone-ff007f?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/🎨_Testar_PhotoClone_Online-ff007f?style=for-the-badge" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Stack Tecnológica & Especialidades
+
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/SQLite_3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WASM" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Chrome_MV3-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Extension" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+</div>
 
 ---
 
@@ -131,23 +177,6 @@
 | **3D Pinball Space Cadet** | Jogo Nostálgico Portado para WebAssembly (WASM) 60 FPS | [Código](https://github.com/4u-Labs/pinball) | [Acessar App](https://4u.ia.br/app/pinball/) |
 | **Loop** | Estação de Processamento de Áudio e Síntese de Voz com IA | [Código](https://github.com/4u-Labs/loop) | [Acessar App](https://4u.ia.br/app/loop/) |
 | **Atari Nostalgia** | Emulador de Jogos Clássicos do Atari 2600 no Navegador | [Código](https://github.com/4u-Labs/atari) | [Acessar App](https://4u.ia.br/app/atari/) |
-
----
-
-## 🛠️ Stack Tecnológica & Especialidades
-
-<div align="center">
-
-| Área | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Frontend & UX** | `JavaScript (ES6+)`, `HTML5 Canvas / Audio`, `CSS3 Moderno`, `Glassmorphism UI`, `PWA`, `SPAs` |
-| **Extensões & Navegador** | `Chrome Extensions API (Manifest V3)`, `Service Workers`, `Content Scripts`, `DOM Shadow Roots` |
-| **Engines & Binários Web** | `WebAssembly (WASM)`, `Emscripten`, `WebGL Shaders`, `Web Audio API Processing` |
-| **Segurança & Criptografia** | `Web Crypto API`, `AES-GCM 256`, `PBKDF2 Derivation`, `ECDH Curves`, `Zero-Knowledge & E2EE Vaults` |
-| **Backend & Banco de Dados** | `PHP 8+`, `SQLite3 (WAL Mode)`, `REST APIs`, `Google Drive REST API v3`, `Session Security` |
-| **Hardware & Infraestrutura** | `Linux (Ubuntu / Debian / Zorin OS)`, `CUPS Printing Subsystem`, `Hostinger Web Servers`, `Apache / FTP Automation` |
-
-</div>
 
 ---
 
