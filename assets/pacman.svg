@@ -17,7 +17,7 @@
     }
     @keyframes walkPacman {
       0% { transform: translate(-30px, 0); }
-      100% { transform: translate(750px, 0); }
+      100% { transform: translate(740px, 0); }
     }
     .pacman-group {
       animation: walkPacman 10s linear infinite;
@@ -77,8 +77,6 @@
     <circle cx="504" cy="0" r="2.5" class="dot" />
     <circle cx="518" cy="0" r="2.5" class="dot" />
     <circle cx="532" cy="0" r="2.5" class="dot" />
-    <circle cx="546" cy="0" r="2.5" class="dot" />
-    <circle cx="560" cy="0" r="2.5" class="dot" />
 
   </g>
 
@@ -90,5 +88,5 @@
     </g>
   </g>
 
-  <text x="710" y="45" class="tagline">REPROGRAME</text>
+  <text x="685" y="45" class="tagline">REPROGRAME-SE</text>
 </svg>
