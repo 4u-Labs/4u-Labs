@@ -151,6 +151,7 @@
 | :--- | :--- | :---: | :---: |
 | **PowerCalc** | Calculadora Multifuncional Premium (13 Modos, 68+ Fórmulas Técnicas, Matrizes) | [Código](https://github.com/4u-Labs/powercalc) | [Acessar App](https://4u.ia.br/app/powercalc/) |
 | **ΞCALC** | Suíte de Engenharia Civil com 38 Calculadoras Técnicas, Estruturas e NBR | [Código](https://github.com/4u-Labs/ecalc) | [Acessar App](https://4u.ia.br/app/engenharia/) |
+| **Contratos IA** | Gerador de Contratos com IA, Assinatura Digital na Tela e Exportação PDF/DOCX | [Código](https://github.com/4u-Labs/contratos) | [Acessar App](https://4u.ia.br/app/contratos/) |
 | **CAD Web** | Desenho Técnico 2D/3D e Plantas Arquitetônicas em Canvas | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cad/) |
 | **DocScanner Pro** | Digitalizador de Documentos com Perspectiva 4 Pontos & OCR | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
 | **4U Office Suite** | Suíte de Produtividade Web (Word, Excel, PowerPoint, PDF) | [Código](https://github.com/4u-Labs/office) | [Acessar App](https://4u.ia.br/app/office/) |
