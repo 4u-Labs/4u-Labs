@@ -192,6 +192,17 @@
 | **Loop** | Mensageiro Moderno com IA Integrada, Canais e Comunidades | [Código](https://github.com/4u-Labs/loop) | [Acessar App](https://4u.ia.br/app/loop/) |
 | **Atari Nostalgia** | Emulador de Jogos Clássicos do Atari 2600 no Navegador | [Código](https://github.com/4u-Labs/atari) | [Acessar App](https://4u.ia.br/app/atari/) |
 
+### 🧩 Extensões Google Chrome & Produtividade MV3
+| Extensão | Descrição | Repositório | Demonstração |
+| :--- | :--- | :---: | :---: |
+| **PrintScreen Capture** | Captura de Tela Completa/Área, Anotações Visuais e Gravação MV3 | [Código](https://github.com/4u-Labs/printscreencapture) | [Acessar App](https://4u.ia.br/app/printscreencapture/) |
+| **TubeMind AI** | Copiloto de IA para YouTube com Resumos e Transcrições em Tempo Real | [Código](https://github.com/4u-Labs/tubemind) | [Acessar App](https://4u.ia.br/app/tubemind/) |
+| **PowerCalc Extension** | Calculadora Multifuncional Pop-up (Científica, Finanças e Conversor) | [Código](https://github.com/4u-Labs/powercalc-extension) | [Acessar App](https://4u.ia.br/app/powercalc/) |
+| **SafePass Extension** | Cofre Zero-Knowledge (AES-256) e Auto-Preenchimento no Navegador | [Código](https://github.com/4u-Labs/safepass-extension) | [Acessar App](https://4u.ia.br/app/safepass/) |
+| **Image Compressor** | Otimização e Compressão Local de Imagens sem Envio a Servidores | [Código](https://github.com/4u-Labs/image-compressor) | [Acessar App](https://4u.ia.br/app/compressor/) |
+| **SecureON Wallet** | Carteira Web3 para Gerenciamento Local e Seguro de Ativos Cripto | [Código](https://github.com/4u-Labs/secureon-wallet) | [Acessar App](https://4u.ia.br/app/wallet/) |
+| **Zero Cache** | Limpeza Rápida e Profunda de Cache, Cookies e Privacidade Instantânea | [Código](https://github.com/4u-Labs/zerocache) | [Acessar App](https://4u.ia.br/app/zerocache/) |
+
 ---
 
 <div align="center">
