@@ -181,6 +181,7 @@
 | **Gerador 4U** | Central de Utilitários, Gerador de Senhas e QR Codes | [Código](https://github.com/4u-Labs/gerador) | [Acessar App](https://4u.ia.br/app/gerador/) |
 | **VirtualSIM** | Dashboard e Gerenciador de Números Virtuais & SMS | [Código](https://github.com/4u-Labs/virtualsim) | [Acessar App](https://4u.ia.br/app/virtualsim/) |
 | **LavExpress** | SaaS de Gestão de Lavanderia, PDV e Impressão Térmica | [Código](https://github.com/4u-Labs/lavexpress) | [Acessar App](https://4u.ia.br/app/demolavanderia/) |
+| **TubeFlow** | Baixador de Vídeos e Músicas PWA de Alta Definição (yt-dlp + FFmpeg) | [Código](https://github.com/4u-Labs/tubeflow) | [Acessar App](https://4u.ia.br/app/tubeflow/) |
 
 ### 🎙️ Áudio & Retrogaming
 | Aplicação | Descrição | Repositório | Demonstração |
