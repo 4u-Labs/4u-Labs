@@ -203,6 +203,7 @@
 | **Image Compressor** | Otimização e Compressão Local de Imagens sem Envio a Servidores | [Código](https://github.com/4u-Labs/image-compressor) | [Acessar](https://chromewebstore.google.com/search/4u.ia.br) |
 | **SecureON Wallet** | Carteira Web3 para Gerenciamento Local e Seguro de Ativos Cripto | [Código](https://github.com/4u-Labs/secureon-wallet) | [Acessar](https://chromewebstore.google.com/search/4u.ia.br) |
 | **Zero Cache** | Limpeza Rápida e Profunda de Cache, Cookies e Privacidade Instantânea | [Código](https://github.com/4u-Labs/zerocache) | [Acessar](https://chromewebstore.google.com/search/4u.ia.br) |
+| **AuthPass Extension** | Autenticador 2FA (TOTP) Pop-up com Criptografia Zero-Knowledge | [Código](https://github.com/4u-Labs/authpass-extension) | [Acessar](https://chromewebstore.google.com/search/4u.ia.br) |
 
 ---
 
