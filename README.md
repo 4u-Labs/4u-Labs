@@ -163,6 +163,7 @@
 | :--- | :--- | :---: | :---: |
 | **SafePass** | Gerenciador de Senhas Zero-Knowledge, PWA e Extensão Chrome | [Código](https://github.com/4u-Labs/safepass) | [Acessar App](https://4u.ia.br/app/safepass/) |
 | **GhostZap** | Mensageiro Criptografado E2EE Anti-Forense com IA | [Código](https://github.com/4u-Labs/ghostzap) | [Acessar App](https://4u.ia.br/app/zap/) |
+| **AuthPass** | Autenticador 2FA (TOTP) PWA Zero-Knowledge com Backup Google Drive | [Código](https://github.com/4u-Labs/authpass) | [Acessar App](https://4u.ia.br/app/authpass/) |
 
 ### 🎨 Design, Mídia & Criação
 | Aplicação | Descrição | Repositório | Demonstração |
