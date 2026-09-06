@@ -149,6 +149,7 @@
 ### 🏗️ Engenharia, Arquitetura & Produtividade Técnica
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
+| **CorteFácil Pro** | Otimizador 2D de Planos de Corte Universal (MDF, Vidros, Aço), Leitor de Rascunhos com IA & Ordem de Serviço A4 | [Código](https://github.com/4u-Labs/cortefacil) | [Acessar App](https://4u.ia.br/app/cortefacil/) |
 | **PowerCalc** | Calculadora Multifuncional Premium (13 Modos, 68+ Fórmulas Técnicas, Matrizes) | [Código](https://github.com/4u-Labs/powercalc) | [Acessar App](https://4u.ia.br/app/powercalc/) |
 | **ΞCALC** | Suíte de Engenharia Civil com 38 Calculadoras Técnicas, Estruturas e NBR | [Código](https://github.com/4u-Labs/ecalc) | [Acessar App](https://4u.ia.br/app/engenharia/) |
 | **4USign Pro** | Plataforma de Contratos com IA, Assinador Digital na Tela (DocuSign Style) & Retenção Zero | [Código](https://github.com/4u-Labs/contratos) | [Acessar App](https://4u.ia.br/app/4usign/) |
