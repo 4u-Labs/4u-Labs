@@ -159,9 +159,10 @@
 | **Acrobat Web** | Visualizador e Manipulador Avançado de Documentos PDF | [Código](https://github.com/4u-Labs/acrobat) | [Acessar App](https://4u.ia.br/app/acrobat/) |
 | **4U Drop** | Transferência Rápida e Compartilhamento Seguro de Arquivos | [Código](https://github.com/4u-Labs/drop) | [Acessar App](https://4u.ia.br/app/drop/) |
 
-### 🛡️ Segurança & Privacidade
+### 🛡️ Segurança, Privacidade & Transparência Pública
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
+| **NuGov** | Extrato Interativo do Cartão Corporativo Presidencial (2003–2026) em Estilo Fintech Nubank | [Código](https://github.com/4u-Labs/nugov) | [Acessar App](https://4u.ia.br/app/nugov/) |
 | **SafePass** | Gerenciador de Senhas Zero-Knowledge, PWA e Extensão Chrome | [Código](https://github.com/4u-Labs/safepass) | [Acessar App](https://4u.ia.br/app/safepass/) |
 | **GhostZap** | Mensageiro Criptografado E2EE Anti-Forense com IA | [Código](https://github.com/4u-Labs/ghostzap) | [Acessar App](https://4u.ia.br/app/zap/) |
 | **AuthPass** | Autenticador 2FA (TOTP) PWA Zero-Knowledge com Backup Google Drive | [Código](https://github.com/4u-Labs/authpass) | [Acessar App](https://4u.ia.br/app/authpass/) |
