@@ -196,6 +196,7 @@
 | **Xadrez Clássico** | Jogo de Xadrez com IA Minimax, Web Audio API e PGN | [Código](https://github.com/4u-Labs/xadrez) | [Acessar App](https://4u.ia.br/app/xadrez/) |
 | **Damas Retrô 8-Bit** | Jogo de Damas com Regras Brasileiras, IA Solo e Visual Arcade | [Código](https://github.com/4u-Labs/damas) | [Acessar App](https://4u.ia.br/app/damas/) |
 | **Loop** | Mensageiro Moderno com IA Integrada, Canais e Comunidades | [Código](https://github.com/4u-Labs/loop) | [Acessar App](https://4u.ia.br/app/loop/) |
+| **Truco Pro Max** | Jogo de Truco Paulista e Mineiro Tradicional com Manilhas Fixas, Blefes de IA & Efeitos Sonoros | [Código](https://github.com/4u-Labs/truco) | [Acessar App](https://4u.ia.br/app/truco/) |
 | **Atari Nostalgia** | Emulador de Jogos Clássicos do Atari 2600 no Navegador | [Código](https://github.com/4u-Labs/atari) | [Acessar App](https://4u.ia.br/app/atari/) |
 
 ### 🧩 Extensões Google Chrome & Produtividade MV3
