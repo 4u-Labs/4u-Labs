@@ -162,6 +162,7 @@
 ### 🛡️ Segurança, Privacidade & Transparência Pública
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
+| **CleanAI 4U** | Higienizador de Mídias Anti-Rastreamento IA, Removedor C2PA/EXIF, Bypass "Made with AI" & Raio-X | [Código](https://github.com/4u-Labs/cleanai) | [Acessar App](https://4u.ia.br/app/cleanai/) |
 | **NuGov** | Extrato Interativo do Cartão Corporativo Presidencial (2003–2026) em Estilo Fintech Nubank | [Código](https://github.com/4u-Labs/nugov) | [Acessar App](https://4u.ia.br/app/nugov/) |
 | **SafePass** | Gerenciador de Senhas Zero-Knowledge, PWA e Extensão Chrome | [Código](https://github.com/4u-Labs/safepass) | [Acessar App](https://4u.ia.br/app/safepass/) |
 | **GhostZap** | Mensageiro Criptografado E2EE Anti-Forense com IA | [Código](https://github.com/4u-Labs/ghostzap) | [Acessar App](https://4u.ia.br/app/zap/) |
