@@ -26,22 +26,67 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ SafePass</h3>
+      <h3 align="center">📐 CADClone (AutoCAD 2D Web)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Zero--Knowledge-PBKDF2_%2B_AES-6d4aff?style=flat-square" />
-        <img src="https://img.shields.io/badge/Chrome_Extension-MV3-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/CAD_2D-Canvas_%26_WebGL-38bdf8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Normas-ABNT_NBR-ffff00?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Formato-DXF_%2F_DWG-10b981?style=flat-square" />
       </p>
       <p>
-        Gerenciador de senhas e cofre confidencial com <b>Criptografia Militar</b> executada 100% no navegador.
+        Estação de trabalho completa de <b>CAD 2D Técnico</b> no navegador, com interface profissional, linha de comando e atalhos idênticos ao AutoCAD clássico.
       </p>
       <ul>
-        <li>🔒 <b>AES-GCM 256 + PBKDF2:</b> 100.000 iterações com salt seguro.</li>
-        <li>🧩 <b>Extensão Chrome MV3:</b> Captura universal e in-field helper.</li>
-        <li>☁️ <b>Smart Sync:</b> Nuvem privada + Google Drive v3 com fusão inteligente.</li>
+        <li>📏 <b>Geometria & Precisão:</b> Linhas, polilinhas, arcos, círculos, OSnap magnético e cotas técnicas ABNT.</li>
+        <li>🧱 <b>170+ Blocos Dinâmicos:</b> Arquitetura, urbanismo, mobiliário, construção civil e mecânica.</li>
+        <li>📄 <b>Pranchas & Plotagem:</b> Exportação vetorial ABNT em PDF escalado e arquivos DXF ASCII para CNC e laser.</li>
       </ul>
-      <p align=center>
-        <a href="https://4u.ia.br/app/safepass/">
-          <img src="https://img.shields.io/badge/🌐_Testar_SafePass_Online-6d4aff?style=for-the-badge" />
+      <p align="center">
+        <a href="https://4u.ia.br/app/cadclone/">
+          <img src="https://img.shields.io/badge/📐_Testar_CADClone_Online-38bdf8?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 PhotoClone</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Editor-Canvas_%26_WebGL-ff007f?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-Remove_BG_%26_Upscale-8b5cf6?style=flat-square" />
+        <a href="https://alternativeto.net/software/photoclone/"><img src="https://img.shields.io/badge/AlternativeTo-Featured_App-00a8ff?style=flat-square" /></a>
+      </p>
+      <p>
+        Poderoso editor gráfico web estilo Photoshop com camadas, filtros e IA. <b>Destaque oficial no AlternativeTo</b> como alternativa leve e gratuita ao Photoshop.
+      </p>
+      <ul>
+        <li>📑 <b>Camadas (Layers):</b> Modos de mesclagem, opacidade e máscaras.</li>
+        <li>🪄 <b>Ferramentas IA:</b> Remove-BG, Upscale e Colorize inteligente.</li>
+        <li>💾 <b>Exportação:</b> PNG, JPG, WEBP, GIF animado e JSON.</li>
+        <li>🌐 <b>AlternativeTo:</b> Listado e recomendado na plataforma global <a href="https://alternativeto.net/software/photoclone/">AlternativeTo</a>.</li>
+      </ul>
+      <p align="center">
+        <a href="https://4u.ia.br/app/photoclone/">
+          <img src="https://img.shields.io/badge/🎨_Testar_PhotoClone_Online-ff007f?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 DocScanner Pro</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Scanner-OpenCV_%26_Canvas-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/OCR_IA-Tesseract_Client--Side-6d4aff?style=flat-square" />
+      </p>
+      <p>
+        Digitalizador de documentos inteligente com <b>correção de perspectiva em 4 pontos</b>, realce de contraste de alta fidelidade e OCR com IA 100% no navegador.
+      </p>
+      <ul>
+        <li>📸 <b>Perspectiva 4 Pontos:</b> Alinhamento e recorte automático de bordas com precisão milimétrica.</li>
+        <li>🔍 <b>OCR com IA Integrada:</b> Extração de texto em múltiplos idiomas com privacidade total (Zero-Retention).</li>
+        <li>📑 <b>PDF Multipáginas:</b> Geração de pranchas e documentos prontos para assinatura e impressão.</li>
+      </ul>
+      <p align="center">
+        <a href="https://4u.ia.br/app/scanner/">
+          <img src="https://img.shields.io/badge/📄_Testar_DocScanner_Online-10b981?style=for-the-badge" />
         </a>
       </p>
     </td>
@@ -68,6 +113,26 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🛡️ SafePass</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Zero--Knowledge-PBKDF2_%2B_AES-6d4aff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Chrome_Extension-MV3-10b981?style=flat-square" />
+      </p>
+      <p>
+        Gerenciador de senhas e cofre confidencial com <b>Criptografia Militar</b> executada 100% no navegador.
+      </p>
+      <ul>
+        <li>🔒 <b>AES-GCM 256 + PBKDF2:</b> 100.000 iterações com salt seguro.</li>
+        <li>🧩 <b>Extensão Chrome MV3:</b> Captura universal e in-field helper.</li>
+        <li>☁️ <b>Smart Sync:</b> Nuvem privada + Google Drive v3 com fusão inteligente.</li>
+      </ul>
+      <p align="center">
+        <a href="https://4u.ia.br/app/safepass/">
+          <img src="https://img.shields.io/badge/🌐_Testar_SafePass_Online-6d4aff?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">👻 GhostZap</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Security-E2EE_%2B_ECDH-38bdf8?style=flat-square" />
@@ -84,26 +149,6 @@
       <p align="center">
         <a href="https://4u.ia.br/app/zap/">
           <img src="https://img.shields.io/badge/👻_Testar_GhostZap_Online-38bdf8?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 PhotoClone</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Editor-Canvas_%26_WebGL-ff007f?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI-Remove_BG_%26_Upscale-8b5cf6?style=flat-square" />
-      </p>
-      <p>
-        Poderoso editor gráfico web estilo Photoshop com suporte a camadas, filtros profissionais e ferramentas de IA.
-      </p>
-      <ul>
-        <li>📑 <b>Camadas (Layers):</b> Modos de mesclagem, opacidade e máscaras.</li>
-        <li>🪄 <b>Ferramentas IA:</b> Remove-BG, Upscale e Colorize inteligente.</li>
-        <li>💾 <b>Exportação:</b> PNG, JPG, WEBP, GIF animado e JSON.</li>
-      </ul>
-      <p align="center">
-        <a href="https://4u.ia.br/app/photoclone/">
-          <img src="https://img.shields.io/badge/🎨_Testar_PhotoClone_Online-ff007f?style=for-the-badge" />
         </a>
       </p>
     </td>
@@ -153,8 +198,8 @@
 | **PowerCalc** | Calculadora Multifuncional Premium (13 Modos, 68+ Fórmulas Técnicas, Matrizes) | [Código](https://github.com/4u-Labs/powercalc) | [Acessar App](https://4u.ia.br/app/powercalc/) |
 | **ΞCALC** | Suíte de Engenharia Civil com 38 Calculadoras Técnicas, Estruturas e NBR | [Código](https://github.com/4u-Labs/ecalc) | [Acessar App](https://4u.ia.br/app/engenharia/) |
 | **4USign Pro** | Plataforma de Contratos com IA, Assinador Digital na Tela (DocuSign Style) & Retenção Zero | [Código](https://github.com/4u-Labs/contratos) | [Acessar App](https://4u.ia.br/app/4usign/) |
-| **CAD Web** | Desenho Técnico 2D/3D e Plantas Arquitetônicas em Canvas | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cad/) |
-| **DocScanner Pro** | Digitalizador de Documentos com Perspectiva 4 Pontos & OCR | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
+| **CADClone** | Estação CAD 2D Profissional no Navegador (AutoCAD Web), Cotas ABNT, 170+ Blocos e Exportação DXF/PDF | [Código](https://github.com/4u-Labs/cadclone) | [Acessar App](https://4u.ia.br/app/cadclone/) |
+| **DocScanner Pro** | Digitalizador de Documentos com Correção de Perspectiva em 4 Pontos, Realce & OCR com IA | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
 | **4U Office Suite** | Suíte de Produtividade Web (Word, Excel, PowerPoint, PDF) | [Código](https://github.com/4u-Labs/office) | [Acessar App](https://4u.ia.br/app/office/) |
 | **Acrobat Web** | Visualizador e Manipulador Avançado de Documentos PDF | [Código](https://github.com/4u-Labs/acrobat) | [Acessar App](https://4u.ia.br/app/acrobat/) |
 | **4U Drop** | Transferência Rápida e Compartilhamento Seguro de Arquivos | [Código](https://github.com/4u-Labs/drop) | [Acessar App](https://4u.ia.br/app/drop/) |
@@ -171,7 +216,7 @@
 ### 🎨 Design, Mídia & Criação
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
-| **PhotoClone** | Editor Gráfico Web com Camadas, WebGL e Ferramentas de IA | [Código](https://github.com/4u-Labs/photoclone) | [Acessar App](https://4u.ia.br/app/photoclone/) |
+| **PhotoClone** | Editor Gráfico Web Estilo Photoshop, Camadas, WebGL & IA (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/photoclone) | [Acessar App](https://4u.ia.br/app/photoclone/) |
 | **MarcaDágua Pro** | Aplicação em Lote de Marcas D'água, Logos e Proteção | [Código](https://github.com/4u-Labs/marcadagua) | [Acessar App](https://4u.ia.br/app/marcadagua/) |
 | **Corel Web** | Editor e Manipulador de Gráficos Vetoriais SVG | [Código](https://github.com/4u-Labs/corel) | [Acessar App](https://4u.ia.br/app/corel/) |
 | **ASCII Art Studio** | Conversor de Imagens em Arte ASCII com Extensão Chrome | [Código](https://github.com/4u-Labs/ascii) | [Acessar App](https://4u.ia.br/app/ascii/) |
