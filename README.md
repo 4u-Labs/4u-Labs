@@ -30,7 +30,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/CAD_2D-Canvas_%26_WebGL-38bdf8?style=flat-square" />
         <img src="https://img.shields.io/badge/Normas-ABNT_NBR-ffff00?style=flat-square&logoColor=black" />
-        <a href="https://alternativeto.net/software/cadclone/"><img src="https://img.shields.io/badge/AlternativeTo-Featured_App-00a8ff?style=flat-square" /></a>
+        <a href="https://alternativeto.net/software/cadclone/about/"><img src="https://img.shields.io/badge/AlternativeTo-Featured_App-00a8ff?style=flat-square" /></a>
       </p>
       <p>
         Estação de trabalho completa de <b>CAD 2D Técnico</b> no navegador, com interface profissional, linha de comando e atalhos idênticos ao AutoCAD clássico. <b>Destaque oficial no AlternativeTo</b> como alternativa leve e gratuita ao AutoCAD.
@@ -39,7 +39,7 @@
         <li>📏 <b>Geometria & Precisão:</b> Linhas, polilinhas, arcos, círculos, OSnap magnético e cotas técnicas ABNT.</li>
         <li>🧱 <b>170+ Blocos Dinâmicos:</b> Arquitetura, urbanismo, mobiliário, construção civil e mecânica.</li>
         <li>📄 <b>Pranchas & Plotagem:</b> Exportação vetorial ABNT em PDF escalado e arquivos DXF ASCII para CNC e laser.</li>
-        <li>🌐 <b>AlternativeTo:</b> Listado e recomendado na plataforma global <a href="https://alternativeto.net/software/cadclone/">AlternativeTo</a>.</li>
+        <li>🌐 <b>AlternativeTo:</b> Listado e recomendado na plataforma global <a href="https://alternativeto.net/software/cadclone/about/">AlternativeTo</a>.</li>
       </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/cadclone/">
