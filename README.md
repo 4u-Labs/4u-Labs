@@ -52,7 +52,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Editor-Canvas_%26_WebGL-ff007f?style=flat-square" />
         <img src="https://img.shields.io/badge/AI-Remove_BG_%26_Upscale-8b5cf6?style=flat-square" />
-        <a href="https://alternativeto.net/software/photoclone/"><img src="https://img.shields.io/badge/AlternativeTo-Featured_App-00a8ff?style=flat-square" /></a>
+        <a href="https://alternativeto.net/software/photoclone/about/"><img src="https://img.shields.io/badge/AlternativeTo-Featured_App-00a8ff?style=flat-square" /></a>
       </p>
       <p>
         Poderoso editor gráfico web estilo Photoshop com camadas, filtros e IA. <b>Destaque oficial no AlternativeTo</b> como alternativa leve e gratuita ao Photoshop.
@@ -61,7 +61,7 @@
         <li>📑 <b>Camadas (Layers):</b> Modos de mesclagem, opacidade e máscaras.</li>
         <li>🪄 <b>Ferramentas IA:</b> Remove-BG, Upscale e Colorize inteligente.</li>
         <li>💾 <b>Exportação:</b> PNG, JPG, WEBP, GIF animado e JSON.</li>
-        <li>🌐 <b>AlternativeTo:</b> Listado e recomendado na plataforma global <a href="https://alternativeto.net/software/photoclone/">AlternativeTo</a>.</li>
+        <li>🌐 <b>AlternativeTo:</b> Listado e recomendado na plataforma global <a href="https://alternativeto.net/software/photoclone/about/">AlternativeTo</a>.</li>
       </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/photoclone/">
