@@ -30,15 +30,16 @@
       <p align="center">
         <img src="https://img.shields.io/badge/CAD_2D-Canvas_%26_WebGL-38bdf8?style=flat-square" />
         <img src="https://img.shields.io/badge/Normas-ABNT_NBR-ffff00?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/Formato-DXF_%2F_DWG-10b981?style=flat-square" />
+        <a href="https://alternativeto.net/software/cadclone/"><img src="https://img.shields.io/badge/AlternativeTo-Featured_App-00a8ff?style=flat-square" /></a>
       </p>
       <p>
-        Estação de trabalho completa de <b>CAD 2D Técnico</b> no navegador, com interface profissional, linha de comando e atalhos idênticos ao AutoCAD clássico.
+        Estação de trabalho completa de <b>CAD 2D Técnico</b> no navegador, com interface profissional, linha de comando e atalhos idênticos ao AutoCAD clássico. <b>Destaque oficial no AlternativeTo</b> como alternativa leve e gratuita ao AutoCAD.
       </p>
       <ul>
         <li>📏 <b>Geometria & Precisão:</b> Linhas, polilinhas, arcos, círculos, OSnap magnético e cotas técnicas ABNT.</li>
         <li>🧱 <b>170+ Blocos Dinâmicos:</b> Arquitetura, urbanismo, mobiliário, construção civil e mecânica.</li>
         <li>📄 <b>Pranchas & Plotagem:</b> Exportação vetorial ABNT em PDF escalado e arquivos DXF ASCII para CNC e laser.</li>
+        <li>🌐 <b>AlternativeTo:</b> Listado e recomendado na plataforma global <a href="https://alternativeto.net/software/cadclone/">AlternativeTo</a>.</li>
       </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/cadclone/">
@@ -198,7 +199,7 @@
 | **PowerCalc** | Calculadora Multifuncional Premium (13 Modos, 68+ Fórmulas Técnicas, Matrizes) | [Código](https://github.com/4u-Labs/powercalc) | [Acessar App](https://4u.ia.br/app/powercalc/) |
 | **ΞCALC** | Suíte de Engenharia Civil com 38 Calculadoras Técnicas, Estruturas e NBR | [Código](https://github.com/4u-Labs/ecalc) | [Acessar App](https://4u.ia.br/app/engenharia/) |
 | **4USign Pro** | Plataforma de Contratos com IA, Assinador Digital na Tela (DocuSign Style) & Retenção Zero | [Código](https://github.com/4u-Labs/contratos) | [Acessar App](https://4u.ia.br/app/4usign/) |
-| **CADClone** | Estação CAD 2D Profissional no Navegador (AutoCAD Web), Cotas ABNT, 170+ Blocos e Exportação DXF/PDF | [Código](https://github.com/4u-Labs/cadclone) | [Acessar App](https://4u.ia.br/app/cadclone/) |
+| **CADClone** | Estação CAD 2D Profissional no Navegador (AutoCAD Web), Cotas ABNT, 170+ Blocos e Exportação DXF/PDF (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cadclone/) |
 | **DocScanner Pro** | Digitalizador de Documentos com Correção de Perspectiva em 4 Pontos, Realce & OCR com IA | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
 | **4U Office Suite** | Suíte de Produtividade Web (Word, Excel, PowerPoint, PDF) | [Código](https://github.com/4u-Labs/office) | [Acessar App](https://4u.ia.br/app/office/) |
 | **Acrobat Web** | Visualizador e Manipulador Avançado de Documentos PDF | [Código](https://github.com/4u-Labs/acrobat) | [Acessar App](https://4u.ia.br/app/acrobat/) |
