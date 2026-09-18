@@ -134,22 +134,24 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">👻 GhostZap</h3>
+      <h3 align="center">🎨 CorelClone Pro</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Security-E2EE_%2B_ECDH-38bdf8?style=flat-square" />
-        <img src="https://img.shields.io/badge/Privacy-Anti--Forensic-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Editor_Vetorial-Bézier_%26_SVG-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/PowerTRACE-Vetorizador_IA-f59e0b?style=flat-square" />
+        <a href="https://alternativeto.net/software/corelclone-pro/about/"><img src="https://img.shields.io/badge/AlternativeTo-Featured_App-00a8ff?style=flat-square" /></a>
       </p>
       <p>
-        Mensageiro ultrasseguro anti-forense com <b>Criptografia Ponta a Ponta</b>, modo volátil em RAM e IA integrada.
+        Estúdio completo de <b>Design Gráfico e Vetorização</b> no navegador e desktop, inspirado no CorelDRAW. <b>Destaque oficial no AlternativeTo</b> como alternativa leve, gratuita e focada em privacidade ao CorelDRAW e Illustrator.
       </p>
       <ul>
-        <li>🔐 <b>E2EE Real:</b> Curvas elípticas ECDH P-256 e AES-GCM local.</li>
-        <li>🧠 <b>Modo Volátil em RAM:</b> Conversas temporárias sem rastro em disco.</li>
-        <li>🚨 <b>PIN de Pânico:</b> Limpeza emergencial de cofre de chaves.</li>
+        <li>⚡ <b>PowerTRACE™:</b> Vetorização instantânea de PNG/JPG para curvas Bézier reais 100% no cliente.</li>
+        <li>🖨️ <b>Pré-impressão & Gráfica:</b> Configuração nativa de sangria (bleed), marcas de corte e exportação PDF/SVG.</li>
+        <li>🎯 <b>Ferramentas Especializadas:</b> Contorno para corte/adesivo, Fountain Fill (F11), PowerClip™ e QR Code vetorial.</li>
+        <li>🌐 <b>AlternativeTo:</b> Listado e recomendado na plataforma global <a href="https://alternativeto.net/software/corelclone-pro/about/">AlternativeTo</a>.</li>
       </ul>
       <p align="center">
-        <a href="https://4u.ia.br/app/zap/">
-          <img src="https://img.shields.io/badge/👻_Testar_GhostZap_Online-38bdf8?style=for-the-badge" />
+        <a href="https://4u.ia.br/app/corel/">
+          <img src="https://img.shields.io/badge/🎨_Testar_CorelClone_Online-059669?style=for-the-badge" />
         </a>
       </p>
     </td>
@@ -219,7 +221,7 @@
 | :--- | :--- | :---: | :---: |
 | **PhotoClone** | Editor Gráfico Web Estilo Photoshop, Camadas, WebGL & IA (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/photoclone) | [Acessar App](https://4u.ia.br/app/photoclone/) |
 | **MarcaDágua Pro** | Aplicação em Lote de Marcas D'água, Logos e Proteção | [Código](https://github.com/4u-Labs/marcadagua) | [Acessar App](https://4u.ia.br/app/marcadagua/) |
-| **Corel Web** | Editor e Manipulador de Gráficos Vetoriais SVG | [Código](https://github.com/4u-Labs/corel) | [Acessar App](https://4u.ia.br/app/corel/) |
+| **CorelClone Pro** | Estúdio de Vetorização e Design Gráfico estilo CorelDRAW, PowerTRACE™, Pré-impressão & Sangria (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/corel) | [Acessar App](https://4u.ia.br/app/corel/) |
 | **ASCII Art Studio** | Conversor de Imagens em Arte ASCII com Extensão Chrome | [Código](https://github.com/4u-Labs/ascii) | [Acessar App](https://4u.ia.br/app/ascii/) |
 
 ### 💻 Desenvolvimento & Automação
