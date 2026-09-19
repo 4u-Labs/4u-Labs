@@ -7,6 +7,7 @@
   <a href="https://orcid.org/0009-0004-5936-5060"><img src="https://img.shields.io/badge/ORCID-0009--0004--5936--5060-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>
   <a href="https://4u.ia.br/#contact"><img src="https://img.shields.io/badge/✉️_FALE_CONOSCO-FORMULÁRIO_DE_CONTATO-6d4aff?style=for-the-badge&logo=telegram&logoColor=white" alt="Formulário de Contato" /></a>
   <a href="https://4u.ia.br"><img src="https://img.shields.io/badge/Website-4u.ia.br-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://4u-labs.github.io"><img src="https://img.shields.io/badge/Tech_Blog-4u--labs.github.io-06b6d4?style=for-the-badge&logo=jekyll&logoColor=white" alt="Tech Blog" /></a>
   <img src="https://komarev.com/ghpvc/?username=4u-Labs&base=1000&color=10b981&style=for-the-badge&label=VISITAS" alt="Contador de Visitas" />
 </p>
 
