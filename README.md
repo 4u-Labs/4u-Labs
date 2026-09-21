@@ -98,16 +98,19 @@
     <td width="50%" valign="top">
       <h3 align="center">🏗️ ΞCALC (Engenharia Civil)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Suíte_Técnica-38_Calculadoras-00d2ff?style=flat-square" />
-        <img src="https://img.shields.io/badge/Normas-ABNT_NBR-0066ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Suíte_Técnica-39_Calculadoras-00d2ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Normas-ABNT_NBR_%26_SINAPI-0066ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/CAD_2D-CADClone_Web-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Segurança-SafeWork_NR--01%2F18-ff6b6b?style=flat-square" />
       </p>
       <p>
-        Plataforma técnica completa para <b>Engenharia e Arquitetura</b> com 38 dimensionadores profissionais.
+        Plataforma técnica completa para <b>Engenharia e Arquitetura</b> com 39 dimensionadores profissionais, memorial de cálculo e conformidade com normas ABNT e SINAPI.
       </p>
       <ul>
-        <li>🧱 <b>Estruturas & MEP:</b> Aço, concreto, fundações, elétrica, gás e hidráulica.</li>
-        <li>📋 <b>Gestão & Campo:</b> Diário de obra digital, BDI, orçamentos e NBR.</li>
-        <li>🎙️ <b>Decibelímetro & Contratos:</b> Medição sonora em tempo real e gerador IA.</li>
+        <li>🧱 <b>Estruturas & Geotecnia:</b> Concreto (ACI/IPT), aço, lajes, vigas, pilares, fundações NBR 6122 e muros de arrimo.</li>
+        <li>⚡ <b>Instalações MEP & Conforto:</b> Elétrica NBR 5410, solar, hidráulica, gás NBR 15526, incêndio, térmica e acústica.</li>
+        <li>📋 <b>Gestão & Orçamento:</b> Orçamentos paramétricos CUB/SINAPI, diário de obra com exportação PDF e checklists.</li>
+        <li>🛠️ <b>CAD 2D, SST & Decibelímetro:</b> CADClone integrado (DXF), SafeWork Pro (PGR/PCMAT) e medição sonora em dB.</li>
       </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/engenharia/">
@@ -203,7 +206,7 @@
 | :--- | :--- | :---: | :---: |
 | **CorteFácil Pro** | Otimizador 2D de Planos de Corte Universal (MDF, Vidros, Aço), Leitor de Rascunhos com IA & Ordem de Serviço A4 | [Código](https://github.com/4u-Labs/cortefacil) | [Acessar App](https://4u.ia.br/app/cortefacil/) |
 | **PowerCalc** | Calculadora Multifuncional Premium (13 Modos, 68+ Fórmulas Técnicas, Matrizes) | [Código](https://github.com/4u-Labs/powercalc) | [Acessar App](https://4u.ia.br/app/powercalc/) |
-| **ΞCALC** | Suíte de Engenharia Civil com 38 Calculadoras Técnicas, Estruturas e NBR | [Código](https://github.com/4u-Labs/ecalc) | [Acessar App](https://4u.ia.br/app/engenharia/) |
+| **ΞCALC** | Suíte de Engenharia Civil com 39 Calculadoras Técnicas, Estruturas, MEP, Normas ABNT & SINAPI | [Código](https://github.com/4u-Labs/ecalc) | [Acessar App](https://4u.ia.br/app/engenharia/) |
 | **4USign Pro** | Plataforma de Contratos com IA, Assinador Digital na Tela (DocuSign Style) & Retenção Zero | [Código](https://github.com/4u-Labs/contratos) | [Acessar App](https://4u.ia.br/app/4usign/) |
 | **CADClone** | Estação CAD 2D Profissional no Navegador (AutoCAD Web), Cotas ABNT, 170+ Blocos e Exportação DXF/PDF (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cadclone/) |
 | **DocScan Pro** | Digitalizador de Documentos com Correção de Perspectiva em 4 Pontos, Lupa, OCR IA, Assinatura & Impressão Térmica | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
