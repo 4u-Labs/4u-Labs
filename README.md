@@ -73,22 +73,25 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📄 DocScanner Pro</h3>
+      <h3 align="center">📄 DocScan Pro</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Scanner-OpenCV_%26_Canvas-10b981?style=flat-square" />
-        <img src="https://img.shields.io/badge/OCR_IA-Tesseract_Client--Side-6d4aff?style=flat-square" />
+        <img src="https://img.shields.io/badge/OCR_IA-Tesseract_%26_Boletos-6d4aff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Impressão-Térmica_80mm-ff6b6b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pagamentos-PIX_%26_PayPal-0070ba?style=flat-square" />
       </p>
       <p>
-        Digitalizador de documentos inteligente com <b>correção de perspectiva em 4 pontos</b>, realce de contraste de alta fidelidade e OCR com IA 100% no navegador.
+        Digitalizador e processador inteligente de documentos com <b>correção de perspectiva em 4 pontos</b>, lupa de precisão, filtros Sauvola, OCR com IA, assinatura touch e suporte à impressão térmica.
       </p>
       <ul>
-        <li>📸 <b>Perspectiva 4 Pontos:</b> Alinhamento e recorte automático de bordas com precisão milimétrica.</li>
-        <li>🔍 <b>OCR com IA Integrada:</b> Extração de texto em múltiplos idiomas com privacidade total (Zero-Retention).</li>
-        <li>📑 <b>PDF Multipáginas:</b> Geração de pranchas e documentos prontos para assinatura e impressão.</li>
+        <li>📸 <b>Captura HD & Lupa Flutuante:</b> Detecção automática de bordas, ajuste milimétrico com lupa e auto-disparo.</li>
+        <li>🔍 <b>OCR IA & Boletos Febraban:</b> Extração instantânea de texto em múltiplos idiomas e decodificação de boletos bancários.</li>
+        <li>✍️ <b>Assinatura Touch & Carimbos:</b> Assinatura digital na tela, tarjas de segurança/censura e carimbos personalizados.</li>
+        <li>🖨️ <b>PDF & Térmica 80mm:</b> Pranchas multipáginas, bobinas térmicas (Bematech/ESC-POS) e sincronização com Google Drive.</li>
       </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/scanner/">
-          <img src="https://img.shields.io/badge/📄_Testar_DocScanner_Online-10b981?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/📄_Testar_DocScan_Pro_Online-10b981?style=for-the-badge" />
         </a>
       </p>
     </td>
@@ -203,7 +206,7 @@
 | **ΞCALC** | Suíte de Engenharia Civil com 38 Calculadoras Técnicas, Estruturas e NBR | [Código](https://github.com/4u-Labs/ecalc) | [Acessar App](https://4u.ia.br/app/engenharia/) |
 | **4USign Pro** | Plataforma de Contratos com IA, Assinador Digital na Tela (DocuSign Style) & Retenção Zero | [Código](https://github.com/4u-Labs/contratos) | [Acessar App](https://4u.ia.br/app/4usign/) |
 | **CADClone** | Estação CAD 2D Profissional no Navegador (AutoCAD Web), Cotas ABNT, 170+ Blocos e Exportação DXF/PDF (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cadclone/) |
-| **DocScanner Pro** | Digitalizador de Documentos com Correção de Perspectiva em 4 Pontos, Realce & OCR com IA | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
+| **DocScan Pro** | Digitalizador de Documentos com Correção de Perspectiva em 4 Pontos, Lupa, OCR IA, Assinatura & Impressão Térmica | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
 | **4U Office Suite** | Suíte de Produtividade Web (Word, Excel, PowerPoint, PDF) | [Código](https://github.com/4u-Labs/office) | [Acessar App](https://4u.ia.br/app/office/) |
 | **Acrobat Web** | Visualizador e Manipulador Avançado de Documentos PDF | [Código](https://github.com/4u-Labs/acrobat) | [Acessar App](https://4u.ia.br/app/acrobat/) |
 | **4U Drop** | Transferência Rápida e Compartilhamento Seguro de Arquivos | [Código](https://github.com/4u-Labs/drop) | [Acessar App](https://4u.ia.br/app/drop/) |
