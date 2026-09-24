@@ -163,6 +163,52 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📷 FotoLaudo (Câmera Técnica & Laudos)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Câmera_Técnica-Telemetria_GPS_%26_UTM-f59e0b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Anotações_CAD-Cotas_%26_Blur-00d2ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Relatórios-PDF_A4_Automático-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/i18n-PT--BR_%7C_EN-6d4aff?style=flat-square" />
+      </p>
+      <p>
+        PWA profissional de <b>Câmera Técnica e Laudos de Fiscalização de Obras</b> com carimbo pericial, telemetria em tempo real, anotações vetoriais e geração instantânea de relatórios fotográficos em PDF.
+      </p>
+      <ul>
+        <li>📡 <b>Telemetria em Tempo Real:</b> GPS WGS84, projeção cartográfica UTM automática, altitude ortométrica e azimute.</li>
+        <li>📏 <b>Cotas Técnicas & Anotações:</b> Setas direcionais 360°, ferramenta de cota CAD com 12 atalhos rápidos e desfoque pericial (Blur).</li>
+        <li>🫧 <b>Nível de Bolha 3D & Grade:</b> Inclinômetro giroscópico digital para prumo perfeito e grade de composição.</li>
+        <li>📄 <b>Relatórios PDF & 100% Offline:</b> Pranchas fotográficas A4 instantâneas, banco local IndexedDB e processamento 100% Edge.</li>
+      </ul>
+      <p align="center">
+        <a href="https://4u.ia.br/app/fotolaudo/">
+          <img src="https://img.shields.io/badge/📷_Acessar_FotoLaudo_Online-f59e0b?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✍️ 4USign (Assinador Digital ICP-Brasil)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Assinatura-ICP--Brasil_%26_Gov.br-0066ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Criptografia-WebCrypto_PAdES-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Privacidade-Zero--Knowledge-6d4aff?style=flat-square" />
+      </p>
+      <p>
+        Plataforma completa de <b>Assinatura Eletrônica e Digital de Documentos PDF</b> com suporte a certificados A1/A3 ICP-Brasil, carimbo do tempo e validação criptográfica.
+      </p>
+      <ul>
+        <li>🔏 <b>PAdES & CAdES:</b> Assinaturas avançadas e qualificadas com conformidade jurídica federal.</li>
+        <li>⚡ <b>Gov.br & Touch:</b> Integração com identidade Gov.br, rubrica na tela e carimbo visual customizável.</li>
+        <li>🛡️ <b>Client-Side:</b> O documento nunca sai da máquina do usuário durante a assinatura criptográfica.</li>
+      </ul>
+      <p align="center">
+        <a href="https://4u.ia.br/app/4usign/">
+          <img src="https://img.shields.io/badge/✍️_Acessar_4USign_Online-0066ff?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
