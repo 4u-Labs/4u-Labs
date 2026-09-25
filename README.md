@@ -121,22 +121,24 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ SafePass</h3>
+      <h3 align="center">📊 OfficeClone Suite</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Zero--Knowledge-PBKDF2_%2B_AES-6d4aff?style=flat-square" />
-        <img src="https://img.shields.io/badge/Chrome_Extension-MV3-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Suíte-Word_Excel_Point_Project_PDF_Keep-0078d4?style=flat-square" />
+        <img src="https://img.shields.io/badge/IA-Copilot_Integrado-8b5cf6?style=flat-square" />
+        <a href="https://alternativeto.net/software/officeclone/about/"><img src="https://img.shields.io/badge/AlternativeTo-Featured_App-00a8ff?style=flat-square" /></a>
       </p>
       <p>
-        Gerenciador de senhas e cofre confidencial com <b>Criptografia Militar</b> executada 100% no navegador.
+        Suíte completa de <b>Produtividade de Escritório</b> no navegador, 100% gratuita, sem rastreadores e com assistência de IA. <b>Destaque no AlternativeTo</b> como alternativa moderna, leve e focada em privacidade ao Microsoft 365 e Google Workspace.
       </p>
       <ul>
-        <li>🔒 <b>AES-GCM 256 + PBKDF2:</b> 100.000 iterações com salt seguro.</li>
-        <li>🧩 <b>Extensão Chrome MV3:</b> Captura universal e in-field helper.</li>
-        <li>☁️ <b>Smart Sync:</b> Nuvem privada + Google Drive v3 com fusão inteligente.</li>
+        <li>📝 <b>6 Aplicativos Integrados:</b> WordClone (.docx), ExcelClone (.xlsx), PointClone (.pptx), ProjectClone (Gantt/WBS), FreePDF e KeepAi.</li>
+        <li>🤖 <b>Inteligência Artificial Bilíngue:</b> Geração de minutas, fórmulas automáticas, pitch decks, cronogramas e síntese em PT e EN.</li>
+        <li>🔒 <b>Privacidade & Client-Side:</b> Processamento local no navegador, retenção zero de arquivos e instalação PWA offline.</li>
+        <li>🌐 <b>AlternativeTo:</b> Listado e recomendado na plataforma global <a href="https://alternativeto.net/software/officeclone/about/">AlternativeTo</a>.</li>
       </ul>
       <p align="center">
-        <a href="https://4u.ia.br/app/safepass/">
-          <img src="https://img.shields.io/badge/🌐_Testar_SafePass_Online-6d4aff?style=for-the-badge" />
+        <a href="https://4u.ia.br/app/office/">
+          <img src="https://img.shields.io/badge/💼_Acessar_OfficeClone_Online-0078d4?style=for-the-badge" />
         </a>
       </p>
     </td>
@@ -256,7 +258,7 @@
 | **4USign Pro** | Plataforma de Contratos com IA, Assinador Digital na Tela (DocuSign Style) & Retenção Zero | [Código](https://github.com/4u-Labs/contratos) | [Acessar App](https://4u.ia.br/app/4usign/) |
 | **CADClone** | Estação CAD 2D Profissional no Navegador (AutoCAD Web), Cotas ABNT, 170+ Blocos e Exportação DXF/PDF (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cadclone/) |
 | **DocScan Pro** | Digitalizador de Documentos com Correção de Perspectiva em 4 Pontos, Lupa, OCR IA, Assinatura & Impressão Térmica | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
-| **4U Office Suite** | Suíte de Produtividade Web (Word, Excel, PowerPoint, PDF) | [Código](https://github.com/4u-Labs/office) | [Acessar App](https://4u.ia.br/app/office/) |
+| **OfficeClone Suite** | Suíte de Produtividade Web com IA (Word, Excel, Point, Project, FreePDF, KeepAi) — Destaque no AlternativeTo | [Código](https://github.com/4u-Labs/office) | [Acessar App](https://4u.ia.br/app/office/) |
 | **Acrobat Web** | Visualizador e Manipulador Avançado de Documentos PDF | [Código](https://github.com/4u-Labs/acrobat) | [Acessar App](https://4u.ia.br/app/acrobat/) |
 | **4U Drop** | Transferência Rápida e Compartilhamento Seguro de Arquivos | [Código](https://github.com/4u-Labs/drop) | [Acessar App](https://4u.ia.br/app/drop/) |
 
