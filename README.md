@@ -254,6 +254,7 @@
 | :--- | :--- | :---: | :---: |
 | **CorteFácil Pro** | Otimizador 2D de Planos de Corte Universal (MDF, Vidros, Aço), Leitor de Rascunhos com IA & Ordem de Serviço A4 | [Código](https://github.com/4u-Labs/cortefacil) | [Acessar App](https://4u.ia.br/app/cortefacil/) |
 | **PowerCalc** | Calculadora Multifuncional Premium (13 Modos, 68+ Fórmulas Técnicas, Matrizes) | [Código](https://github.com/4u-Labs/powercalc) | [Acessar App](https://4u.ia.br/app/powercalc/) |
+| **UniConvert Pro** | Conversor Universal Inteligente (19 Categorias, Câmbio & Cripto ao Vivo, Grandezas de Engenharia, Comando por Voz/NLP & Extensão Chrome) | [Código](https://github.com/4u-Labs/conversor) | [Acessar App](https://4u.ia.br/app/conversor/) |
 | **ΞCALC** | Suíte de Engenharia Civil com 39 Calculadoras Técnicas, Estruturas, MEP, Normas ABNT & SINAPI | [Código](https://github.com/4u-Labs/ecalc) | [Acessar App](https://4u.ia.br/app/engenharia/) |
 | **4USign Pro** | Plataforma de Contratos com IA, Assinador Digital na Tela (DocuSign Style) & Retenção Zero | [Código](https://github.com/4u-Labs/contratos) | [Acessar App](https://4u.ia.br/app/4usign/) |
 | **CADClone** | Estação CAD 2D Profissional no Navegador (AutoCAD Web), Cotas ABNT, 170+ Blocos e Exportação DXF/PDF (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cadclone/) |
