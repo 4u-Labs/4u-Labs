@@ -296,6 +296,7 @@
 ### 🎙️ Áudio & Retrogaming
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
+| **TalkMotion** | Estúdio de Voz e Narração com IA, Multi-Vozes, Waveform Interativo, Trilha de Fundo & Google Login | [Código](https://github.com/4u-Labs/talk) | [Acessar App](https://4u.ia.br/app/talk/) |
 | **Sound Meter Pro** | Decibelímetro Digital em Tempo Real, Analisador RTA e Laudos Técnicos ABNT NBR 10151 / NR-15 | [Código](https://github.com/4u-Labs/soundmeter) | [Acessar App](https://4u.ia.br/app/soundmeter/) |
 | **FlashZone** | Fliperama Web Retrô de Jogos Flash (+30 Clássicos em Ruffle WebAssembly) | [Código](https://github.com/4u-Labs/flashzone) | [Acessar App](https://4u.ia.br/app/flashzone/) |
 | **3D Pinball Space Cadet** | Jogo Nostálgico Portado para WebAssembly (WASM) 60 FPS | [Código](https://github.com/4u-Labs/pinball) | [Acessar App](https://4u.ia.br/app/pinball/) |
