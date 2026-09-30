@@ -276,6 +276,7 @@
 ### 🎨 Design, Mídia & Criação
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
+| **CardCraft Pro** | Gerador Interativo de Cartões Digitais (Link na Bio) & Físicos (85x55mm) com Exportação HTML/PDF/vCard, QR Code Dinâmico e PIX | [Código](https://github.com/4u-Labs/cartao) | [Acessar App](https://4u.ia.br/app/cartao/) |
 | **PhotoClone** | Editor Gráfico Web Estilo Photoshop, Camadas, WebGL & IA (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/photoclone) | [Acessar App](https://4u.ia.br/app/photoclone/) |
 | **MarcaDágua Pro** | Aplicação em Lote de Marcas D'água, Logos e Proteção | [Código](https://github.com/4u-Labs/marcadagua) | [Acessar App](https://4u.ia.br/app/marcadagua/) |
 | **CorelClone Pro** | Estúdio de Vetorização e Design Gráfico estilo CorelDRAW, PowerTRACE™, Pré-impressão & Sangria (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/corel) | [Acessar App](https://4u.ia.br/app/corel/) |
