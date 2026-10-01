@@ -297,6 +297,7 @@
 | **LavExpress** | SaaS de Gestão de Lavanderia, PDV e Impressão Térmica | [Código](https://github.com/4u-Labs/lavexpress) | [Acessar App](https://4u.ia.br/app/demolavanderia/) |
 | **TubeFlow** | Baixador de Vídeos e Músicas PWA de Alta Definição (yt-dlp + FFmpeg) | [Código](https://github.com/4u-Labs/tubeflow) | [Acessar App](https://4u.ia.br/app/tubeflow/) |
 | **ListaFácil Pro** | Gerador Universal de Estrutura de Arquivos, Árvore ASCII para IA, Planilhas CSV & Auditoria de Disco | [Código](https://github.com/4u-Labs/listafacil) | [Acessar App](https://4u.ia.br/app/listafacil/) |
+| **Code Optimizer** | Minificador Seguro, Beautifier, Diff Viewer & Otimizador Web Multi-Linguagem (JS, CSS, HTML, JSON, SQL, SVG, YAML) | [Código](https://github.com/4u-Labs/minifier) | [Acessar App](https://4u.ia.br/app/minifier/) |
 
 ### 🎙️ Áudio & Retrogaming
 | Aplicação | Descrição | Repositório | Demonstração |
