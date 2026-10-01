@@ -316,6 +316,7 @@
 | **Forca Pro** | Jogo da Forca Arcade PWA (1.500+ Palavras, Acentos Inteligentes, Modo Blitz 60s, Duelo & Desafio Diário) | [Código](https://github.com/4u-Labs/forca) | [Acessar App](https://4u.ia.br/app/forca/) |
 | **Pong Retro TV 1972** | Clássico Pong Arcade Jogável dentro de uma TV CRT Vintage, Efeito Fósforo, Shaders de Scanlines, Seletores de Canais & Áudio 8-Bit | [Código](https://github.com/4u-Labs/pong) | [Acessar App](https://4u.ia.br/app/pong/) |
 | **Atari Nostalgia** | Emulador de Jogos Clássicos do Atari 2600 no Navegador | [Código](https://github.com/4u-Labs/atari) | [Acessar App](https://4u.ia.br/app/atari/) |
+| **Resta 1 Neon** | Jogo de Tabuleiro Clássico Peg Solitaire com Desfazer (Undo), Áudio Web Audio, Dicas, Multi-Tabuleiros & Replay | [Código](https://github.com/4u-Labs/resta1) | [Acessar App](https://4u.ia.br/app/resta1/) |
 
 ### 🧩 Extensões Google Chrome & Produtividade MV3
 | Extensão | Descrição | Repositório | Chrome Web Store |
