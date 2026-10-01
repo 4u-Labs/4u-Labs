@@ -318,6 +318,7 @@
 | **Atari Nostalgia** | Emulador de Jogos Clássicos do Atari 2600 no Navegador | [Código](https://github.com/4u-Labs/atari) | [Acessar App](https://4u.ia.br/app/atari/) |
 | **Resta 1 Neon** | Jogo de Tabuleiro Clássico Peg Solitaire com Desfazer (Undo), Áudio Web Audio, Dicas, Multi-Tabuleiros & Replay | [Código](https://github.com/4u-Labs/resta1) | [Acessar App](https://4u.ia.br/app/resta1/) |
 | **Pac-Man Arcade** | Recriação Retrô do Clássico Arcade com Sintetizador Web Audio, Placar 1UP/High Score, D-Pad Touch & PWA | [Código](https://github.com/4u-Labs/pacman) | [Acessar App](https://4u.ia.br/app/pacman/) |
+| **Space Invaders 1978** | Recriação Clássica do Lendário Arcade com Bunkers Destrutíveis Pixel a Pixel, Marcha Acelerada, UFO Bônus, Áudio WAV & Controles Touch 100dvh | [Código](https://github.com/4u-Labs/space) | [Acessar App](https://4u.ia.br/app/space/) |
 
 ### 🧩 Extensões Google Chrome & Produtividade MV3
 | Extensão | Descrição | Repositório | Chrome Web Store |
