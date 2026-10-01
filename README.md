@@ -317,6 +317,7 @@
 | **Pong Retro TV 1972** | Clássico Pong Arcade Jogável dentro de uma TV CRT Vintage, Efeito Fósforo, Shaders de Scanlines, Seletores de Canais & Áudio 8-Bit | [Código](https://github.com/4u-Labs/pong) | [Acessar App](https://4u.ia.br/app/pong/) |
 | **Atari Nostalgia** | Emulador de Jogos Clássicos do Atari 2600 no Navegador | [Código](https://github.com/4u-Labs/atari) | [Acessar App](https://4u.ia.br/app/atari/) |
 | **Resta 1 Neon** | Jogo de Tabuleiro Clássico Peg Solitaire com Desfazer (Undo), Áudio Web Audio, Dicas, Multi-Tabuleiros & Replay | [Código](https://github.com/4u-Labs/resta1) | [Acessar App](https://4u.ia.br/app/resta1/) |
+| **Pac-Man Arcade** | Recriação Retrô do Clássico Arcade com Sintetizador Web Audio, Placar 1UP/High Score, D-Pad Touch & PWA | [Código](https://github.com/4u-Labs/pacman) | [Acessar App](https://4u.ia.br/app/pacman/) |
 
 ### 🧩 Extensões Google Chrome & Produtividade MV3
 | Extensão | Descrição | Repositório | Chrome Web Store |
