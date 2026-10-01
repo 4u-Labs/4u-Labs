@@ -314,6 +314,7 @@
 | **Cruzô** | Suíte de Palavras Cruzadas & Caça-Palavras PWA (20 Edições, Desafio Diário & Modo Blitz) | [Código](https://github.com/4u-Labs/cruzadas) | [Acessar App](https://4u.ia.br/app/cruzadas/) |
 | **Palavreado** | Dicionário Inteligente 100% Offline (267k+ palavras), Anagramas, Rimas, Métrica Poética & Caça-Palavras PWA | [Código](https://github.com/4u-Labs/palavras) | [Acessar App](https://4u.ia.br/app/palavras/) |
 | **Forca Pro** | Jogo da Forca Arcade PWA (1.500+ Palavras, Acentos Inteligentes, Modo Blitz 60s, Duelo & Desafio Diário) | [Código](https://github.com/4u-Labs/forca) | [Acessar App](https://4u.ia.br/app/forca/) |
+| **Pong Retro TV 1972** | Clássico Pong Arcade Jogável dentro de uma TV CRT Vintage, Efeito Fósforo, Shaders de Scanlines, Seletores de Canais & Áudio 8-Bit | [Código](https://github.com/4u-Labs/pong) | [Acessar App](https://4u.ia.br/app/pong/) |
 | **Atari Nostalgia** | Emulador de Jogos Clássicos do Atari 2600 no Navegador | [Código](https://github.com/4u-Labs/atari) | [Acessar App](https://4u.ia.br/app/atari/) |
 
 ### 🧩 Extensões Google Chrome & Produtividade MV3
