@@ -319,6 +319,7 @@
 | **Resta 1 Neon** | Jogo de Tabuleiro Clássico Peg Solitaire com Desfazer (Undo), Áudio Web Audio, Dicas, Multi-Tabuleiros & Replay | [Código](https://github.com/4u-Labs/resta1) | [Acessar App](https://4u.ia.br/app/resta1/) |
 | **Pac-Man Arcade** | Recriação Retrô do Clássico Arcade com Sintetizador Web Audio, Placar 1UP/High Score, D-Pad Touch & PWA | [Código](https://github.com/4u-Labs/pacman) | [Acessar App](https://4u.ia.br/app/pacman/) |
 | **Space Invaders 1978** | Recriação Clássica do Lendário Arcade com Bunkers Destrutíveis Pixel a Pixel, Marcha Acelerada, UFO Bônus, Áudio WAV & Controles Touch 100dvh | [Código](https://github.com/4u-Labs/space) | [Acessar App](https://4u.ia.br/app/space/) |
+| **Genius (Simon 1978)** | Clássico Jogo Eletrônico de Memória dos Anos 80 com Síntese Analógica Web Audio, Vibração Tátil (Haptic), 3 Modos de Jogo & 4 Velocidades | [Código](https://github.com/4u-Labs/genius) | [Acessar App](https://4u.ia.br/app/genius/) |
 
 ### 🧩 Extensões Google Chrome & Produtividade MV3
 | Extensão | Descrição | Repositório | Chrome Web Store |
