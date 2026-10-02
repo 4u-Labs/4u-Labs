@@ -294,6 +294,7 @@
 | **Gerador 4U** | Central de Utilitários, Gerador de Senhas e QR Codes | [Código](https://github.com/4u-Labs/gerador) | [Acessar App](https://4u.ia.br/app/gerador/) |
 | **VirtualSIM** | Dashboard e Gerenciador de Números Virtuais & SMS | [Código](https://github.com/4u-Labs/virtualsim) | [Acessar App](https://4u.ia.br/app/virtualsim/) |
 | **Sorteador Pro Max** | Plataforma de Sorteios Auditáveis, Roleta Canvas, Bingo 3D, Amigo Secreto & Certificado SHA-256 | [Código](https://github.com/4u-Labs/sorteio) | [Acessar App](https://4u.ia.br/app/sorteio/) |
+| **AGENDOU** | Plataforma SaaS de Agendamentos Online para Barbearias e Serviços, Integração Dupla Google Agenda & WhatsApp | [Código](https://github.com/4u-Labs/agendou) | [Acessar App](https://4u.ia.br/app/agendou/) |
 | **LavExpress** | SaaS de Gestão de Lavanderia, PDV e Impressão Térmica | [Código](https://github.com/4u-Labs/lavexpress) | [Acessar App](https://4u.ia.br/app/demolavanderia/) |
 | **TubeFlow** | Baixador de Vídeos e Músicas PWA de Alta Definição (yt-dlp + FFmpeg) | [Código](https://github.com/4u-Labs/tubeflow) | [Acessar App](https://4u.ia.br/app/tubeflow/) |
 | **ListaFácil Pro** | Gerador Universal de Estrutura de Arquivos, Árvore ASCII para IA, Planilhas CSV & Auditoria de Disco | [Código](https://github.com/4u-Labs/listafacil) | [Acessar App](https://4u.ia.br/app/listafacil/) |
