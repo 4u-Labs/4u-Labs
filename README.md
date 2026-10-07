@@ -283,7 +283,9 @@
 | **PhotoClone** | Editor Gráfico Web Estilo Photoshop, Camadas, WebGL & IA (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/photoclone) | [Acessar App](https://4u.ia.br/app/photoclone/) |
 | **MarcaDágua Pro** | Aplicação em Lote de Marcas D'água, Logos e Proteção | [Código](https://github.com/4u-Labs/marcadagua) | [Acessar App](https://4u.ia.br/app/marcadagua/) |
 | **CorelClone Pro** | Estúdio de Vetorização e Design Gráfico estilo CorelDRAW, PowerTRACE™, Pré-impressão & Sangria (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/corel) | [Acessar App](https://4u.ia.br/app/corel/) |
+| **PDFácil** | O Canivete Suíço de PDFs: Junte, Divida, Comprima, Assine Digitalmente, OCR, Marca D'água e Converta Office/Imagens | [Código](https://github.com/4u-Labs/pdfacil) | [Acessar App](https://4u.ia.br/app/pdfacil/) |
 | **ASCII Art Studio** | Conversor de Imagens em Arte ASCII com Extensão Chrome | [Código](https://github.com/4u-Labs/ascii) | [Acessar App](https://4u.ia.br/app/ascii/) |
+
 
 ### 💻 Desenvolvimento & Automação
 | Aplicação | Descrição | Repositório | Demonstração |
