@@ -326,6 +326,7 @@
 | **Tetris Arcade** | Jogo de Tetris Retrô Cyberpunk, 7-Bag Randomizer, Ghost Piece, Hold, Efeitos Sonoros Web Audio, Controles Touch Mobile & Ranking SQLite | [Código](https://github.com/4u-Labs/tetris) | [Acessar App](https://4u.ia.br/app/tetris/) |
 | **Jogo da Velha Pro** | Clássico Jogo da Velha com 3 Temas Visuais (Neon, Lousa de Giz e 8-Bit), IA Minimax Imbatível, Timer de Jogada, Linha de Vitória SVG Animada & PWA Offline | [Código](https://github.com/4u-Labs/velha) | [Acessar App](https://4u.ia.br/app/velha/) |
 | **UNO Deluxe** | Jogo de Cartas UNO com Modos 1v1 e 4 Jogadores, Sentido Dinâmico, Regras da Casa Brasileiras (+Stacking, 7 e 0), Web Audio Synth & PWA | [Código](https://github.com/4u-Labs/uno) | [Acessar App](https://4u.ia.br/app/uno/) |
+| **AquaPlay Vintage** | Brinquedo Aquático dos Anos 80 com Bombas Duplas, Modos Argolas & Basquete, Giroscópio Mobile, Web Audio & PWA | [Código](https://github.com/4u-Labs/aquaplay) | [Acessar App](https://4u.ia.br/app/aquaplay/) |
 
 ### 🧩 Extensões Google Chrome & Produtividade MV3
 | Extensão | Descrição | Repositório | Chrome Web Store |
