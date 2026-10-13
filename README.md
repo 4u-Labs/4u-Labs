@@ -259,7 +259,7 @@
 | **ΞCALC** | Suíte de Engenharia Civil com 39 Calculadoras Técnicas, Estruturas, MEP, Normas ABNT & SINAPI | [Código](https://github.com/4u-Labs/ecalc) | [Acessar App](https://4u.ia.br/app/engenharia/) |
 | **4USign Pro** | Plataforma de Contratos com IA, Assinador Digital na Tela (DocuSign Style) & Retenção Zero | [Código](https://github.com/4u-Labs/contratos) | [Acessar App](https://4u.ia.br/app/4usign/) |
 | **CADClone** | Estação CAD 2D Profissional no Navegador (AutoCAD Web), Cotas ABNT, 170+ Blocos e Exportação DXF/PDF (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cadclone/) |
-| **DocScan Pro** | Scanner PWA com recorte e rotação após a foto, enquadramento preciso, OCR offline e backup verificado | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
+| **DocScan Pro** | Scanner PWA com recorte, rotação e edição de páginas salvas, OCR offline e backup verificado | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
 | **Keep AI** | Notas e organização com sincronização no Google Drive e recursos de IA | [Código](https://github.com/4u-Labs/keepai) | [Acessar App](https://4u.ia.br/app/keepai/) |
 | **OfficeClone Suite** | Suíte de Produtividade Web com IA (Word, Excel, Point, Project, FreePDF, KeepAi) — Destaque no AlternativeTo | [Código](https://github.com/4u-Labs/office) | [Acessar App](https://4u.ia.br/app/office/) |
 | **Acrobat Web** | Visualizador e Manipulador Avançado de Documentos PDF | [Código](https://github.com/4u-Labs/acrobat) | [Acessar App](https://4u.ia.br/app/acrobat/) |
