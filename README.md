@@ -259,7 +259,7 @@
 | **ΞCALC** | Suíte de Engenharia Civil com 39 Calculadoras Técnicas, Estruturas, MEP, Normas ABNT & SINAPI | [Código](https://github.com/4u-Labs/ecalc) | [Acessar App](https://4u.ia.br/app/engenharia/) |
 | **4USign Pro** | Plataforma de Contratos com IA, Assinador Digital na Tela (DocuSign Style) & Retenção Zero | [Código](https://github.com/4u-Labs/contratos) | [Acessar App](https://4u.ia.br/app/4usign/) |
 | **CADClone** | Estação CAD 2D Profissional no Navegador (AutoCAD Web), Cotas ABNT, 170+ Blocos e Exportação DXF/PDF (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cadclone/) |
-| **DocScan Pro** | Digitalizador de Documentos com Correção de Perspectiva em 4 Pontos, Lupa, OCR IA, Assinatura & Impressão Térmica | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
+| **DocScan Pro** | Digitalizador de Documentos com Correção de Perspectiva, PDF Pesquisável, OCR IA, Assinatura & Impressão Térmica | [Código](https://github.com/4u-Labs/scanner) | [Acessar App](https://4u.ia.br/app/scanner/) |
 | **OfficeClone Suite** | Suíte de Produtividade Web com IA (Word, Excel, Point, Project, FreePDF, KeepAi) — Destaque no AlternativeTo | [Código](https://github.com/4u-Labs/office) | [Acessar App](https://4u.ia.br/app/office/) |
 | **Acrobat Web** | Visualizador e Manipulador Avançado de Documentos PDF | [Código](https://github.com/4u-Labs/acrobat) | [Acessar App](https://4u.ia.br/app/acrobat/) |
 | **4U Drop** | Transferência Rápida e Compartilhamento Seguro de Arquivos | [Código](https://github.com/4u-Labs/drop) | [Acessar App](https://4u.ia.br/app/drop/) |
