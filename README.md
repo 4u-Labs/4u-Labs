@@ -278,7 +278,7 @@
 ### 🎨 Design, Mídia & Criação
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
-| **4uMusic** | Player de músicas do YouTube com busca, playlists completas, sugestões sem repetir, fila retomável, temporizador e PWA | — | [Acessar App](https://4u.ia.br/app/4umusic/) |
+| **4uMusic** | Player musical com busca oficial, páginas de artistas, mixes ajustáveis, playlists, retomada sincronizada e PWA | — | [Acessar App](https://4u.ia.br/app/4umusic/) |
 | **OneClick AI** | Estúdio de Imagens PT/EN: Remoção de Fundo U²-Net, Upscale Real-ESRGAN 4×, Efeitos, Retoques por Região, Produtos/Adesivos e Exportação em Lote — Sem APIs de IA Pagas | [Código](https://github.com/4u-Labs/oneclick) | [Acessar App](https://4u.ia.br/app/oneclick/) |
 | **CardCraft Pro** | Gerador Interativo de Cartões Digitais (Link na Bio) & Físicos (85x55mm) com Exportação HTML/PDF/vCard, QR Code Dinâmico e PIX | [Código](https://github.com/4u-Labs/cartao) | [Acessar App](https://4u.ia.br/app/cartao/) |
 | **LinkFree** | Plataforma SaaS de Link na Bio (Linktree Style) com Autenticação Google 1-Click, Gestão de Links, Temas e Redes Sociais | [Código](https://github.com/4u-Labs/linkfree) | [Acessar App](https://4u.ia.br/app/linkfree/) |
