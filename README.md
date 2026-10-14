@@ -8,7 +8,7 @@
   <a href="https://4u.ia.br/#contact"><img src="https://img.shields.io/badge/✉️_FALE_CONOSCO-FORMULÁRIO_DE_CONTATO-6d4aff?style=for-the-badge&logo=telegram&logoColor=white" alt="Formulário de Contato" /></a>
   <a href="https://4u.ia.br"><img src="https://img.shields.io/badge/Website-4u.ia.br-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://4u-labs.github.io"><img src="https://img.shields.io/badge/Tech_Blog-4u--labs.github.io-06b6d4?style=for-the-badge&logo=jekyll&logoColor=white" alt="Tech Blog" /></a>
-  <img src="https://shieldcn.dev/views/user/4u-Labs.svg?label=VISITAS&color=10b981&base=1200" alt="Contador de Visitas" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fshieldcn.dev%2Fviews%2Fuser%2F4u-Labs.json%3Fbase%3D1200&query=%24.value&label=VISITAS&color=10b981&labelColor=555&style=for-the-badge" alt="Contador de Visitas" />
 </p>
 
 <!-- Typing SVG Animation -->
