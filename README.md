@@ -272,6 +272,7 @@
 | **MetaViewer Pro** | Auditoria Forense de Metadados, Higienizador de Arquivos (LGPD), Geolocalização em Mapa & Detecção de IA | [Código](https://github.com/4u-Labs/metadados) | [Acessar App](https://4u.ia.br/app/metadados/) |
 | **NuGov** | Extrato Interativo do Cartão Corporativo Presidencial (2003–2026) em Estilo Fintech Nubank | [Código](https://github.com/4u-Labs/nugov) | [Acessar App](https://4u.ia.br/app/nugov/) |
 | **4U Finance Pro** | Gestão Financeira Pessoal & Corporativa com Regra 50/30/20, Importação de Extratos OFX, Parcelamentos Inteligentes, Calculadoras e Relatórios Executivos em PDF | [Código](https://github.com/4u-Labs/financeiro) | [Acessar App](https://4u.ia.br/app/financeiro/) |
+| **4uPass** | Cofre de senhas web e extensão Chromium PT/EN, sincronização com Vaultwarden e interface personalizada | — | [Acessar App](https://4u.ia.br/pass/) |
 | **SafePass** | Gerenciador de Senhas Zero-Knowledge, PWA e Extensão Chrome | [Código](https://github.com/4u-Labs/safepass) | [Acessar App](https://4u.ia.br/app/safepass/) |
 | **GhostZap** | Mensageiro Criptografado E2EE Anti-Forense com IA | [Código](https://github.com/4u-Labs/ghostzap) | [Acessar App](https://4u.ia.br/app/zap/) |
 | **AuthPass** | Autenticador 2FA (TOTP) PWA Zero-Knowledge com Backup Google Drive | [Código](https://github.com/4u-Labs/authpass) | [Acessar App](https://4u.ia.br/app/authpass/) |
