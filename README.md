@@ -26,6 +26,34 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🔐 4uPass (Cofre de Senhas, Biometria & Autenticador 2FA)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Criptografia-AES--256_Client--Side-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Desbloqueio-Biometria_WebAuthn_%26_PIN-06b6d4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Autenticador-2FA_%2F_TOTP_Integrado-6d4aff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Plataforma-Web_PWA_%26_Extensão_Chromium-38bdf8?style=flat-square" />
+      </p>
+      <p>
+        Gerenciador de senhas e autenticador <b>2FA (TOTP)</b> bilíngue (PT-BR/EN) com <b>criptografia local AES-256</b>, sincronização em servidor próprio da 4u-Labs, desbloqueio rápido no dia a dia e extensão dedicada para navegadores Chromium.
+      </p>
+      <ul>
+        <li>👆 <b>Biometria & PIN Inteligente:</b> Desbloqueio instantâneo por impressão digital (WebAuthn PRF) ou PIN local, com política configurável de solicitação da Senha Mestre (15, 45, 90 dias ou sempre).</li>
+        <li>🔑 <b>TOTP Integrado & Regras de URL:</b> Códigos 2FA de 6 dígitos gerados direto no cofre e preenchimento automático com suporte a prefixo (<i>Começa com</i>) para múltiplos sistemas no mesmo domínio.</li>
+        <li>📨 <b>4uPass Send & Anexos Criptografados:</b> Compartilhamento seguro de textos criptografados com expiração/senha e cota pessoal de até 5 MB de anexos por usuário.</li>
+        <li>🧩 <b>PWA & Extensão Pré-Configurada:</b> Instalação direta como aplicativo (Android, iOS e Desktop) e extensão para Chrome, Brave, Edge, Opera e Vivaldi.</li>
+      </ul>
+      <p align="center">
+        <a href="https://4u.ia.br/app/pass/">
+          <img src="https://img.shields.io/badge/🔐_Acessar_Cofre_4uPass_Online-10b981?style=for-the-badge" />
+        </a>
+        <a href="https://4u.ia.br/app/pass/comparar.html">
+          <img src="https://img.shields.io/badge/📊_Comparativo_%26_Extensão-0ea5e9?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📐 CADClone (AutoCAD 2D Web)</h3>
       <p align="center">
@@ -272,7 +300,7 @@
 | **MetaViewer Pro** | Auditoria Forense de Metadados, Higienizador de Arquivos (LGPD), Geolocalização em Mapa & Detecção de IA | [Código](https://github.com/4u-Labs/metadados) | [Acessar App](https://4u.ia.br/app/metadados/) |
 | **NuGov** | Extrato Interativo do Cartão Corporativo Presidencial (2003–2026) em Estilo Fintech Nubank | [Código](https://github.com/4u-Labs/nugov) | [Acessar App](https://4u.ia.br/app/nugov/) |
 | **4U Finance Pro** | Gestão Financeira Pessoal & Corporativa com Regra 50/30/20, Importação de Extratos OFX, Parcelamentos Inteligentes, Calculadoras e Relatórios Executivos em PDF | [Código](https://github.com/4u-Labs/financeiro) | [Acessar App](https://4u.ia.br/app/financeiro/) |
-| **4uPass** | Cofre web e extensão Chromium PT/EN, sincronização com servidor próprio e 5 MB de anexos por usuário | — | [Acessar App](https://4u.ia.br/app/pass/) |
+| **4uPass** | Cofre de Senhas & Autenticador 2FA (TOTP) PT/EN com Criptografia AES-256, Desbloqueio por Biometria (WebAuthn PRF) & PIN, Regras de URL, Send, PWA, Extensão Chromium e 5 MB de Anexos | — | [Acessar App](https://4u.ia.br/app/pass/) |
 | **SafePass** | Gerenciador de Senhas Zero-Knowledge, PWA e Extensão Chrome | [Código](https://github.com/4u-Labs/safepass) | [Acessar App](https://4u.ia.br/app/safepass/) |
 | **GhostZap** | Mensageiro Criptografado E2EE Anti-Forense com IA | [Código](https://github.com/4u-Labs/ghostzap) | [Acessar App](https://4u.ia.br/app/zap/) |
 | **AuthPass** | Autenticador 2FA (TOTP) PWA Zero-Knowledge com Backup Google Drive | [Código](https://github.com/4u-Labs/authpass) | [Acessar App](https://4u.ia.br/app/authpass/) |
