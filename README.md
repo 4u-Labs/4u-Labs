@@ -363,7 +363,7 @@
 ### 🧩 Extensões Google Chrome & Produtividade MV3
 | Extensão | Descrição | Repositório | Chrome Web Store |
 | :--- | :--- | :---: | :---: |
-| **4uCapture** | Um Clique para Selecionar, Ferramentas nas Bordas da Área, Desfoque, Tarja e PNG/JPEG/WebP; Página Inteira e Web Studio (PT/EN) | Extensão local · v1.3.0 | Instalação manual · ainda não publicado |
+| **4uCapture** | Um Clique para Selecionar, Ferramentas nas Bordas da Área, Desfoque, Tarja e PNG/JPEG/WebP; Página Inteira e Web Studio (PT/EN) | Extensão local · v1.3.1 | Instalação manual · ainda não publicado |
 | **PrintScreen Capture** | Captura de Tela Completa/Área, Anotações Visuais e Gravação MV3 | [Código](https://github.com/4u-Labs/printscreencapture) | [Acessar](https://chromewebstore.google.com/search/4u.ia.br) |
 | **TubeMind AI** | Copiloto de IA para YouTube com Resumos e Transcrições em Tempo Real | [Código](https://github.com/4u-Labs/tubemind) | [Acessar](https://chromewebstore.google.com/search/4u.ia.br) |
 | **PowerCalc Extension** | Calculadora Multifuncional Pop-up (Científica, Finanças e Conversor) | [Código](https://github.com/4u-Labs/powercalc-extension) | [Acessar](https://chromewebstore.google.com/search/4u.ia.br) |
