@@ -308,6 +308,7 @@
 ### 🎨 Design, Mídia & Criação
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
+| **ClipCut Studio** | Editor de Vídeo Multiplataforma (Linux, Windows, macOS, Android, iOS & PWA): Legendas Karaokê Palavra por Palavra (Whisper IA), Corte Automático de Silêncios, Zoom Dinâmico & Presets CapCut | [Código](https://github.com/4u-Labs/clipcut) | [Acessar App](https://4u.ia.br/app/clipcut/) |
 | **4uMusic** | Player musical com busca oficial, páginas de artistas, mixes ajustáveis, playlists, retomada sincronizada e PWA | — | [Acessar App](https://4u.ia.br/app/4umusic/) |
 | **OneClick AI** | Estúdio de Imagens PT/EN: Remoção de Fundo U²-Net, Upscale Real-ESRGAN 4×, Efeitos, Retoques por Região, Produtos/Adesivos e Exportação em Lote — Sem APIs de IA Pagas | [Código](https://github.com/4u-Labs/oneclick) | [Acessar App](https://4u.ia.br/app/oneclick/) |
 | **CardCraft Pro** | Gerador Interativo de Cartões Digitais (Link na Bio) & Físicos (85x55mm) com Exportação HTML/PDF/vCard, QR Code Dinâmico e PIX | [Código](https://github.com/4u-Labs/cartao) | [Acessar App](https://4u.ia.br/app/cartao/) |
