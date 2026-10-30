@@ -27,6 +27,34 @@
 <table>
   <tr>
     <td colspan="2" valign="top">
+      <h3 align="center">🧪 TinyLab (Suíte com 132 Ferramentas Web Livres, Rápidas & Privadas)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Suíte_Completa-132_Ferramentas_Locais-bc8eff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Motores-WASM_%26_WebGPU_IA-64e5d6?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Privacidade-Zero_Upload_%26_Offline_PWA-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/i18n-PT--BR_%7C_EN-6d4aff?style=flat-square" />
+      </p>
+      <p>
+        Laboratório tudo-em-um de <b>Utilitários Digitais Client-Side</b> projetado como alternativa moderna, aberta, sem anúncios e sem filas ao TinyWow e iLovePDF — reunindo <b>132 ferramentas em 7 categorias</b> direto no navegador.
+      </p>
+      <ul>
+        <li>📄 <b>PDF Profissional (30 ferramentas):</b> PDF pesquisável (OCR), PDF ↔ Word/Excel, compressão inteligente mantendo texto vetorial, assinatura multipáginas, tarja permanente (<i>Redaction</i>), N-up, Markdown → PDF e criptografia AES-256.</li>
+        <li>🎨 <b>Estúdio de Imagens (27 ferramentas):</b> Remoção de fundo (Cor + IA <code>ORMBG</code>/<code>MODNet</code> + pincel de refino), desfoque <i>Bokeh</i> IA, remoção de objetos/marcas-d'água, vetorização PNG/JPG → SVG colorido, carrossel Instagram e Mockup macOS.</li>
+        <li>🎬 <b>Vídeo, Áudio & Dados (45 ferramentas):</b> Timeline visual de corte, queimar legendas <code>.SRT</code> no vídeo, formato 9:16 Reels/Shorts, CSV ↔ Excel ↔ JSON ↔ XML, ZIP e Diff Visual colorido.</li>
+        <li>⚙️ <b>Dev, QR/Barras & IA Local (30 ferramentas):</b> QR Code Studio (PNG + SVG + Logo central, PIX, Wi-Fi, vCard), leitura ao vivo por câmera, códigos de barras EAN-13/Code 128, JWT HMAC, Regex e suíte <b>AI Write</b> local (<code>Qwen2.5</code>, <code>Whisper</code>, <code>Swin2SR</code>) via WebGPU.</li>
+      </ul>
+      <p align="center">
+        <a href="https://4u.ia.br/app/tinylab/">
+          <img src="https://img.shields.io/badge/🧪_Acessar_TinyLab_Online-bc8eff?style=for-the-badge&logoColor=black" />
+        </a>
+        <a href="https://github.com/4u-Labs/tinylab">
+          <img src="https://img.shields.io/badge/📦_Código--Fonte_v2.0-11101a?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center">🔐 4uPass (Cofre de Senhas, Biometria & Autenticador 2FA)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Criptografia-AES--256_Client--Side-10b981?style=flat-square" />
@@ -280,6 +308,7 @@
 ### 🏗️ Engenharia, Arquitetura & Produtividade Técnica
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
+| **TinyLab** | Suíte com 132 Ferramentas Locais PT/EN (PDF Avançado & OCR, Imagens & Vetorização SVG, Vídeo/Legendas SRT, Excel/CSV, QR/Barras, Dev & IA Local WebGPU) — Sem Anúncios & PWA Offline | [Código](https://github.com/4u-Labs/tinylab) | [Acessar App](https://4u.ia.br/app/tinylab/) |
 | **CorteFácil Pro** | Otimizador 2D de Planos de Corte Universal (MDF, Vidros, Aço), Leitor de Rascunhos com IA & Ordem de Serviço A4 | [Código](https://github.com/4u-Labs/cortefacil) | [Acessar App](https://4u.ia.br/app/cortefacil/) |
 | **PowerCalc** | Calculadora Multifuncional Premium (13 Modos, 68+ Fórmulas Técnicas, Matrizes) | [Código](https://github.com/4u-Labs/powercalc) | [Acessar App](https://4u.ia.br/app/powercalc/) |
 | **UniConvert Pro** | Conversor Universal Inteligente (19 Categorias, Câmbio & Cripto ao Vivo, Grandezas de Engenharia, Comando por Voz/NLP & Extensão Chrome) | [Código](https://github.com/4u-Labs/conversor) | [Acessar App](https://4u.ia.br/app/conversor/) |
