@@ -27,28 +27,28 @@
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">🧪 TinyLab (Suíte com 132 Ferramentas Web Livres, Rápidas & Privadas)</h3>
+      <h3 align="center">🧪 TinyLab (Suíte com 150 Ferramentas Web Livres, Rápidas & Privadas)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Suíte_Completa-132_Ferramentas_Locais-bc8eff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Suíte_Completa-150_Ferramentas_Locais-bc8eff?style=flat-square" />
         <img src="https://img.shields.io/badge/Motores-WASM_%26_WebGPU_IA-64e5d6?style=flat-square&logoColor=black" />
         <img src="https://img.shields.io/badge/Privacidade-Zero_Upload_%26_Offline_PWA-10b981?style=flat-square" />
         <img src="https://img.shields.io/badge/i18n-PT--BR_%7C_EN-6d4aff?style=flat-square" />
       </p>
       <p>
-        Laboratório tudo-em-um de <b>Utilitários Digitais Client-Side</b> projetado como alternativa moderna, aberta, sem anúncios e sem filas ao TinyWow e iLovePDF — reunindo <b>132 ferramentas em 7 categorias</b> direto no navegador.
+        Laboratório tudo-em-um de <b>Utilitários Digitais Client-Side</b> projetado como alternativa moderna, aberta, sem anúncios e sem filas ao TinyWow e iLovePDF — reunindo <b>150 ferramentas em 7 categorias</b> direto no navegador.
       </p>
       <ul>
-        <li>📄 <b>PDF Profissional (30 ferramentas):</b> PDF pesquisável (OCR), PDF ↔ Word/Excel, compressão inteligente mantendo texto vetorial, assinatura multipáginas, tarja permanente (<i>Redaction</i>), N-up, Markdown → PDF e criptografia AES-256.</li>
-        <li>🎨 <b>Estúdio de Imagens (27 ferramentas):</b> Remoção de fundo (Cor + IA <code>ORMBG</code>/<code>MODNet</code> + pincel de refino), desfoque <i>Bokeh</i> IA, remoção de objetos/marcas-d'água, vetorização PNG/JPG → SVG colorido, carrossel Instagram e Mockup macOS.</li>
-        <li>🎬 <b>Vídeo, Áudio & Dados (45 ferramentas):</b> Timeline visual de corte, queimar legendas <code>.SRT</code> no vídeo, formato 9:16 Reels/Shorts, CSV ↔ Excel ↔ JSON ↔ XML, ZIP e Diff Visual colorido.</li>
-        <li>⚙️ <b>Dev, QR/Barras & IA Local (30 ferramentas):</b> QR Code Studio (PNG + SVG + Logo central, PIX, Wi-Fi, vCard), leitura ao vivo por câmera, códigos de barras EAN-13/Code 128, JWT HMAC, Regex e suíte <b>AI Write</b> local (<code>Qwen2.5</code>, <code>Whisper</code>, <code>Swin2SR</code>) via WebGPU.</li>
+        <li>📄 <b>PDF & E-books (35 ferramentas):</b> PDF pesquisável (OCR), PDF ↔ Word/Excel/PowerPoint (<code>.pptx</code>), <b>EPUB ↔ PDF</b>, editar texto no PDF, tons de cinza, comparar 2 PDFs, compressão inteligente mantendo texto vetorial, assinatura multipáginas, tarja permanente (<i>Redaction</i>), N-up, Markdown → PDF e criptografia AES-256.</li>
+        <li>🎨 <b>Estúdio de Imagens & Formatos Pro (31 ferramentas):</b> Remoção de fundo (Cor + IA <code>ORMBG</code>/<code>MODNet</code> + pincel de refino), desfoque <i>Bokeh</i> IA, remoção de objetos/marcas-d'água, abrir/converter <b>PSD / TIFF / BMP / ICO</b>, extrator de paleta de cores, colorir foto P&B, criador de Stickers 512×512 WebP, vetorização PNG/JPG → SVG colorido, carrossel Instagram e Mockup macOS.</li>
+        <li>🎬 <b>Vídeo, Áudio & Dados (49 ferramentas):</b> Timeline visual de corte, queimar legendas <code>.SRT</code> no vídeo, <b>Texto para Voz (TTS → WAV)</b>, adicionar música em vídeo, inverter vídeo, limpar ruído de voz (Denoise), formato 9:16 Reels/Shorts, CSV ↔ Excel ↔ JSON ↔ XML, ZIP e Diff Visual colorido.</li>
+        <li>⚙️ <b>Dev, QR/Barras & IA Local (35 ferramentas):</b> QR Code Studio (PNG + SVG + Logo central, PIX, Wi-Fi, vCard), leitura ao vivo por câmera, códigos de barras EAN-13/Code 128, JWT HMAC, Regex e suíte <b>AI Write</b> local com 10 ferramentas (Currículo, Marca/Slogan, Termos LGPD, Resumidor de Reunião, Explicador de Código/SQL, E-mail, Artigo, Produto, Roteiro e FAQ via <code>Qwen2.5</code>, <code>Whisper</code> e <code>Swin2SR</code>) com WebGPU.</li>
       </ul>
       <p align="center">
         <a href="https://4u.ia.br/app/tinylab/">
           <img src="https://img.shields.io/badge/🧪_Acessar_TinyLab_Online-bc8eff?style=for-the-badge&logoColor=black" />
         </a>
         <a href="https://github.com/4u-Labs/tinylab">
-          <img src="https://img.shields.io/badge/📦_Código--Fonte_v2.0-11101a?style=for-the-badge&logo=github" />
+          <img src="https://img.shields.io/badge/📦_Código--Fonte_v2.1-11101a?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
