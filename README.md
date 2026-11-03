@@ -223,25 +223,28 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📷 FotoLaudo (Câmera Técnica & Laudos)</h3>
+      <h3 align="center">📐 3DCad Studio (Dual CAD B-Rep & Mesh Modeling)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Câmera_Técnica-Telemetria_GPS_%26_UTM-f59e0b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Anotações_CAD-Cotas_%26_Blur-00d2ff?style=flat-square" />
-        <img src="https://img.shields.io/badge/Relatórios-PDF_A4_Automático-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Engine-Open_CASCADE_WASM-0284c7?style=flat-square" />
+        <img src="https://img.shields.io/badge/BRep-Geometria_Analítica_ISO_STEP-10b981?style=flat-square" />
+        <a href="https://alternativeto.net/software/3dcad-studio/about/"><img src="https://img.shields.io/badge/AlternativeTo-Featured_App-00a8ff?style=flat-square" /></a>
         <img src="https://img.shields.io/badge/i18n-PT--BR_%7C_EN-6d4aff?style=flat-square" />
       </p>
       <p>
-        PWA profissional de <b>Câmera Técnica e Laudos de Fiscalização de Obras</b> com carimbo pericial, telemetria em tempo real, anotações vetoriais e geração instantânea de relatórios fotográficos em PDF.
+        Suíte profissional de <b>Modelagem 3D Paramétrica Dual-Engine</b> (B-Rep analítico via Open CASCADE WebAssembly e malhas poligonais CSG) no navegador. <b>Destaque oficial no AlternativeTo</b> como alternativa moderna ao Fusion 360, FreeCAD e SolidWorks.
       </p>
       <ul>
-        <li>📡 <b>Telemetria em Tempo Real:</b> GPS WGS84, projeção cartográfica UTM automática, altitude ortométrica e azimute.</li>
-        <li>📏 <b>Cotas Técnicas & Anotações:</b> Setas direcionais 360°, ferramenta de cota CAD com 12 atalhos rápidos e desfoque pericial (Blur).</li>
-        <li>🫧 <b>Nível de Bolha 3D & Grade:</b> Inclinômetro giroscópico digital para prumo perfeito e grade de composição.</li>
-        <li>📄 <b>Relatórios PDF & 100% Offline:</b> Pranchas fotográficas A4 instantâneas, banco local IndexedDB e processamento 100% Edge.</li>
+        <li>⚙️ <b>Dual Engine & STEP ISO:</b> Modelagem híbrida com sólidos analíticos reais, tolerâncias de precisão CNC e exportação analítica STEP, 3MF, STL e OBJ.</li>
+        <li>📐 <b>Solver 2D Levenberg-Marquardt:</b> Esboços paramétricos inteligentes com resolução de restrições geométricas, cotas e graus de liberdade (DOF).</li>
+        <li>🔩 <b>Montagens Cinemáticas:</b> Juntas mecânicas (Revolute, Slider, Fixed) com simulação dinâmica de movimento em tempo real.</li>
+        <li>🤖 <b>MCP Server & PWA Offline:</b> Automação paramétrica via IA (Model Context Protocol), árvore de operações e funcionamento 100% offline.</li>
       </ul>
       <p align="center">
-        <a href="https://4u.ia.br/app/fotolaudo/">
-          <img src="https://img.shields.io/badge/📷_Acessar_FotoLaudo_Online-f59e0b?style=for-the-badge" />
+        <a href="https://4u.ia.br/app/3dcad/">
+          <img src="https://img.shields.io/badge/📐_Acessar_3DCad_Online-0284c7?style=for-the-badge" />
+        </a>
+        <a href="https://alternativeto.net/software/3dcad-studio/about/">
+          <img src="https://img.shields.io/badge/AlternativeTo-Destaque-00a8ff?style=for-the-badge&logo=alternativeto&logoColor=white" />
         </a>
       </p>
     </td>
@@ -308,7 +311,7 @@
 ### 🏗️ Engenharia, Arquitetura & Produtividade Técnica
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
-| **TinyLab** | Suíte com 132 Ferramentas Locais PT/EN (PDF Avançado & OCR, Imagens & Vetorização SVG, Vídeo/Legendas SRT, Excel/CSV, QR/Barras, Dev & IA Local WebGPU) — Sem Anúncios & PWA Offline | [Código](https://github.com/4u-Labs/tinylab) | [Acessar App](https://4u.ia.br/app/tinylab/) |
+| **TinyLab** | Suíte com 150 Ferramentas Locais PT/EN (PDF Avançado & OCR, Imagens & Vetorização SVG, Vídeo/Legendas SRT, Excel/CSV, QR/Barras, Dev & IA Local WebGPU) — Sem Anúncios & PWA Offline | [Código](https://github.com/4u-Labs/tinylab) | [Acessar App](https://4u.ia.br/app/tinylab/) |
 | **CorteFácil Pro** | Otimizador 2D de Planos de Corte Universal (MDF, Vidros, Aço), Leitor de Rascunhos com IA & Ordem de Serviço A4 | [Código](https://github.com/4u-Labs/cortefacil) | [Acessar App](https://4u.ia.br/app/cortefacil/) |
 | **PowerCalc** | Calculadora Multifuncional Premium (13 Modos, 68+ Fórmulas Técnicas, Matrizes) | [Código](https://github.com/4u-Labs/powercalc) | [Acessar App](https://4u.ia.br/app/powercalc/) |
 | **UniConvert Pro** | Conversor Universal Inteligente (19 Categorias, Câmbio & Cripto ao Vivo, Grandezas de Engenharia, Comando por Voz/NLP & Extensão Chrome) | [Código](https://github.com/4u-Labs/conversor) | [Acessar App](https://4u.ia.br/app/conversor/) |
@@ -322,6 +325,10 @@
 | **OfficeClone Suite** | Suíte de Produtividade Web com IA (Word, Excel, Point, Project, FreePDF, KeepAi) — Destaque no AlternativeTo | [Código](https://github.com/4u-Labs/office) | [Acessar App](https://4u.ia.br/app/office/) |
 | **Acrobat Web** | Visualizador e Manipulador Avançado de Documentos PDF | [Código](https://github.com/4u-Labs/acrobat) | [Acessar App](https://4u.ia.br/app/acrobat/) |
 | **4U Drop** | Transferência Rápida e Compartilhamento Seguro de Arquivos | [Código](https://github.com/4u-Labs/drop) | [Acessar App](https://4u.ia.br/app/drop/) |
+| **FotoLaudo** | Câmera Técnica & Laudos de Fiscalização de Obras com Telemetria GPS/UTM, Cotas CAD, Inclinômetro 3D e Pranchas Fotográficas em PDF A4 | [Código](https://github.com/4u-Labs/fotolaudo) | [Acessar App](https://4u.ia.br/app/fotolaudo/) |
+| **CamObra Pro** | Câmera Técnica de Engenharia & Infraestrutura com Carimbo de Campo, Coordenadas UTM, Nível de Bolha Virtual, Bússola e Emissão de Laudos Técnicos | [Código](https://github.com/4u-Labs/camobra) | [Acessar App](https://4u.ia.br/app/camobra/) |
+| **ColaBox 4U** | Gerador de Resumos e Fichas Compactas para Provas e Estudos em Folha A4 com Colunas Ajustáveis e Máxima Densidade Visual | [Código](https://github.com/4u-Labs/colabox) | [Acessar App](https://4u.ia.br/app/colabox/) |
+| **AutoCare Pro** | Gestão Inteligente de Manutenção Automotiva, Consumo de Combustível, Calculadora Flex e Backup Direto no Google Drive com Total Privacidade | [Código](https://github.com/4u-Labs/veiculo) | [Acessar App](https://4u.ia.br/app/veiculo/) |
 
 ### 🛡️ Segurança, Privacidade & Transparência Pública
 | Aplicação | Descrição | Repositório | Demonstração |
@@ -334,6 +341,7 @@
 | **SafePass** | Gerenciador de Senhas Zero-Knowledge, PWA e Extensão Chrome | [Código](https://github.com/4u-Labs/safepass) | [Acessar App](https://4u.ia.br/app/safepass/) |
 | **GhostZap** | Mensageiro Criptografado E2EE Anti-Forense com IA | [Código](https://github.com/4u-Labs/ghostzap) | [Acessar App](https://4u.ia.br/app/zap/) |
 | **AuthPass** | Autenticador 2FA (TOTP) PWA Zero-Knowledge com Backup Google Drive | [Código](https://github.com/4u-Labs/authpass) | [Acessar App](https://4u.ia.br/app/authpass/) |
+| **SecureON Wallet** | Carteira Cripto Web3 Não-Custodial (Ethereum & Tokens ERC-20) com Criptografia Local AES-256-GCM 100% no Navegador | [Código](https://github.com/4u-Labs/wallet) | [Acessar App](https://4u.ia.br/app/wallet/) |
 
 ### 🎨 Design, Mídia & Criação
 | Aplicação | Descrição | Repositório | Demonstração |
@@ -348,6 +356,11 @@
 | **CorelClone Pro** | Estúdio de Vetorização e Design Gráfico estilo CorelDRAW, PowerTRACE™, Pré-impressão & Sangria (Destaque no AlternativeTo) | [Código](https://github.com/4u-Labs/corel) | [Acessar App](https://4u.ia.br/app/corel/) |
 | **PDFácil** | O Canivete Suíço de PDFs: Junte, Divida, Comprima, Assine Digitalmente, OCR, Marca D'água e Converta Office/Imagens | [Código](https://github.com/4u-Labs/pdfacil) | [Acessar App](https://4u.ia.br/app/pdfacil/) |
 | **ASCII Art Studio** | Conversor de Imagens em Arte ASCII com Extensão Chrome | [Código](https://github.com/4u-Labs/ascii) | [Acessar App](https://4u.ia.br/app/ascii/) |
+| **VectorAI** | Vetorizador Profissional com IA para Conversão de Imagens Raster para Vetores Precisos (SVG, EPS, PDF, DXF) com Isolamento de Fundo e Super-Resolução | [Código](https://github.com/4u-Labs/vetor) | [Acessar App](https://4u.ia.br/app/vetor/) |
+| **IllustratorClone Pro** | Editor Gráfico Vetorial WebAssembly Online com Suporte a SVG, PDF, Ferramentas de Curva Bézier e IA | [Código](https://github.com/4u-Labs/illusclone) | [Acessar App](https://4u.ia.br/app/illusclone/) |
+| **Image Processor PRO** | Processador e Compressor de Imagens em Lote 100% Local (WebP, AVIF, PNG, JPEG), Presets Sociais, Remoção de EXIF e Comparador Visual | [Código](https://github.com/4u-Labs/compressor) | [Acessar App](https://4u.ia.br/app/compressor/) |
+| **YouTube Tools Pro** | Suíte para Criadores do YouTube — Extração de Thumbnails 4K, Banners 16:9, Tags SEO Ocultas, Transcrições e Simulador de Feed | [Código](https://github.com/4u-Labs/thumb) | [Acessar App](https://4u.ia.br/app/thumb/) |
+| **QR Code Studio Pro** | Gerador e Scanner de QR Code Avançado com PIX Oficial, Logotipo Central, Wi-Fi, vCard, Molduras de Impressão Vetoriais e SVG/PNG | [Código](https://github.com/4u-Labs/qrcode) | [Acessar App](https://4u.ia.br/app/qrcode/) |
 
 
 ### 💻 Desenvolvimento & Automação
@@ -364,6 +377,11 @@
 | **TubeFlow** | Baixador de Vídeos e Músicas PWA de Alta Definição (yt-dlp + FFmpeg) | [Código](https://github.com/4u-Labs/tubeflow) | [Acessar App](https://4u.ia.br/app/tubeflow/) |
 | **ListaFácil Pro** | Gerador Universal de Estrutura de Arquivos, Árvore ASCII para IA, Planilhas CSV & Auditoria de Disco | [Código](https://github.com/4u-Labs/listafacil) | [Acessar App](https://4u.ia.br/app/listafacil/) |
 | **Code Optimizer** | Minificador Seguro, Beautifier, Diff Viewer & Otimizador Web Multi-Linguagem (JS, CSS, HTML, JSON, SQL, SVG, YAML) | [Código](https://github.com/4u-Labs/minifier) | [Acessar App](https://4u.ia.br/app/minifier/) |
+| **BAIXOU!!** | Baixador de Vídeos Autorizados (YouTube, X, TikTok, Instagram, Vimeo), Extrator de Áudio MP3 em Alta Fidelidade e Transcrição Automática (TXT, MD, SRT) com Player e Busca | [Código](https://github.com/4u-Labs/baixou) | [Acessar App](https://4u.ia.br/app/baixou/) |
+| **Favicon Studio Pro** | Estúdio Definitivo de Favicons com Simulação em Abas Reais (Chrome, Google Search, Mobile) e Geração Completa de Assets Web/PWA/iOS/Android | [Código](https://github.com/4u-Labs/favicon) | [Acessar App](https://4u.ia.br/app/favicon/) |
+| **Base64 Studio** | Conversor de Imagens para Base64, Data URI, CSS e HTML com Compressão em Canvas, Suporte a Ctrl+V e Processamento 100% Local | [Código](https://github.com/4u-Labs/code64) | [Acessar App](https://4u.ia.br/app/code64/) |
+| **Central das Loterias** | Super App de Análise Estatística, Gerador de Palpites Inteligentes e Fechamentos Combinatórios de Loterias Caixa | [Código](https://github.com/4u-Labs/loterias) | [Acessar App](https://4u.ia.br/app/loterias/) |
+| **Loja Oficial 4U** | Vitrine e Catálogo Oficial de Aplicativos Web, Extensões Chromium, Ferramentas Digitais e Soluções Tecnológicas 4U.IA.BR | [Código](https://github.com/4u-Labs/loja) | [Acessar App](https://4u.ia.br/loja/) |
 
 ### 🎙️ Áudio & Retrogaming
 | Aplicação | Descrição | Repositório | Demonstração |
@@ -390,11 +408,13 @@
 | **Jogo da Velha Pro** | Clássico Jogo da Velha com 3 Temas Visuais (Neon, Lousa de Giz e 8-Bit), IA Minimax Imbatível, Timer de Jogada, Linha de Vitória SVG Animada & PWA Offline | [Código](https://github.com/4u-Labs/velha) | [Acessar App](https://4u.ia.br/app/velha/) |
 | **UNO Deluxe** | Jogo de Cartas UNO com Modos 1v1 e 4 Jogadores, Sentido Dinâmico, Regras da Casa Brasileiras (+Stacking, 7 e 0), Web Audio Synth & PWA | [Código](https://github.com/4u-Labs/uno) | [Acessar App](https://4u.ia.br/app/uno/) |
 | **AquaPlay Vintage** | Brinquedo Aquático dos Anos 80 com Bombas Duplas, Modos Argolas & Basquete, Giroscópio Mobile, Web Audio & PWA | [Código](https://github.com/4u-Labs/aquaplay) | [Acessar App](https://4u.ia.br/app/aquaplay/) |
+| **Game Boy Classic** | Emulador Retrô de Game Boy Clássico no Navegador com Suporte a ROMs, Save State, Paletas Originais e Controles Touch Customizados | [Código](https://github.com/4u-Labs/gameboy) | [Acessar App](https://4u.ia.br/app/gameboy/) |
+| **Super Mario Retro** | Recriação Completa do Clássico Super Mario Bros em HTML5 com Física Original, Editor de Fases e Suporte a Teclado/Gamepad | [Código](https://github.com/4u-Labs/supermario) | [Acessar App](https://4u.ia.br/app/supermario/) |
 
 ### 🧩 Extensões Google Chrome & Produtividade MV3
 | Extensão | Descrição | Repositório | Chrome Web Store |
 | :--- | :--- | :---: | :---: |
-| **4uCapture** | Captura com um Clique, Marcações Editáveis, Lupa, Mosaico, OCR Local PT/EN, Projetos e Rascunho Opcional; Página Inteira e Web Studio | Extensão local · v1.4.0 | Instalação manual · ainda não publicado |
+| **4uCapture** | Captura com um Clique, Marcações Editáveis, Lupa, Mosaico, OCR Local PT/EN, Projetos e Rascunho Opcional; Página Inteira e Web Studio | [Código](https://github.com/4u-Labs/4ucapture) | [Acessar Web Studio](https://4u.ia.br/app/4uCapture/) |
 | **PrintScreen Capture** | Captura de Tela Completa/Área, Anotações Visuais e Gravação MV3 | [Código](https://github.com/4u-Labs/printscreencapture) | [Acessar](https://chromewebstore.google.com/search/4u.ia.br) |
 | **TubeMind AI** | Copiloto de IA para YouTube com Resumos e Transcrições em Tempo Real | [Código](https://github.com/4u-Labs/tubemind) | [Acessar](https://chromewebstore.google.com/search/4u.ia.br) |
 | **PowerCalc Extension** | Calculadora Multifuncional Pop-up (Científica, Finanças e Conversor) | [Código](https://github.com/4u-Labs/powercalc-extension) | [Acessar](https://chromewebstore.google.com/search/4u.ia.br) |
