@@ -346,7 +346,7 @@
 ### 🎨 Design, Mídia & Criação
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
-| **ClipCut Studio** | Editor de vídeo para Linux, Windows, macOS Intel, Android, iOS e navegador: timeline multifaixa, áudio, legendas e exportação local. Pacote macOS Apple Silicon pendente | [Código](https://github.com/4u-Labs/clipcut) · [Release 1.0.0](https://github.com/4u-Labs/clipcut/releases/tag/v1.0.0) | [Acessar App](https://4u.ia.br/app/clipcut/) |
+| **ClipCut Studio** | Editor de vídeo para Linux, Windows, macOS Intel e Apple Silicon, Android, iOS e navegador: timeline multifaixa, áudio, legendas e exportação local | [Código](https://github.com/4u-Labs/clipcut) · [Release 1.0.0](https://github.com/4u-Labs/clipcut/releases/tag/v1.0.0) | [Acessar App](https://4u.ia.br/app/clipcut/) |
 | **4uMusic** | Player musical com busca oficial, páginas de artistas, mixes ajustáveis, playlists, retomada sincronizada e PWA | — | [Acessar App](https://4u.ia.br/app/4umusic/) |
 | **OneClick AI** | Estúdio de Imagens PT/EN: Remoção de Fundo U²-Net, Upscale Real-ESRGAN 4×, Efeitos, Retoques por Região, Produtos/Adesivos e Exportação em Lote — Sem APIs de IA Pagas | [Código](https://github.com/4u-Labs/oneclick) | [Acessar App](https://4u.ia.br/app/oneclick/) |
 | **CardCraft Pro** | Gerador Interativo de Cartões Digitais (Link na Bio) & Físicos (85x55mm) com Exportação HTML/PDF/vCard, QR Code Dinâmico e PIX | [Código](https://github.com/4u-Labs/cartao) | [Acessar App](https://4u.ia.br/app/cartao/) |
