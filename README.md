@@ -409,6 +409,7 @@
 | **UNO Deluxe** | Jogo de Cartas UNO com Modos 1v1 e 4 Jogadores, Sentido Dinâmico, Regras da Casa Brasileiras (+Stacking, 7 e 0), Web Audio Synth & PWA | [Código](https://github.com/4u-Labs/uno) | [Acessar App](https://4u.ia.br/app/uno/) |
 | **AquaPlay Vintage** | Brinquedo Aquático dos Anos 80 com Bombas Duplas, Modos Argolas & Basquete, Giroscópio Mobile, Web Audio & PWA | [Código](https://github.com/4u-Labs/aquaplay) | [Acessar App](https://4u.ia.br/app/aquaplay/) |
 | **Game Boy Classic** | Emulador Retrô de Game Boy Clássico no Navegador com Suporte a ROMs, Save State, Paletas Originais e Controles Touch Customizados | [Código](https://github.com/4u-Labs/gameboy) | [Acessar App](https://4u.ia.br/app/gameboy/) |
+| **K7 & Floppy** | Bancada Retrô Dual Real 6502 (Microdigital TK 2000 II + Apple II+) no Navegador com Gravador K7 (.CT2), Drive Disk II 5¼" (.DSK), 160+ Clássicos, Manuais & BASIC PT/EN | [Código](https://github.com/4u-Labs/k7floppy) · [Packs ZIP](https://github.com/4u-Labs/k7floppy/releases/tag/v1.0.0) | [Acessar App](https://4u.ia.br/app/k7floppy/) |
 | **Super Mario Retro** | Recriação Completa do Clássico Super Mario Bros em HTML5 com Física Original, Editor de Fases e Suporte a Teclado/Gamepad | [Código](https://github.com/4u-Labs/supermario) | [Acessar App](https://4u.ia.br/app/supermario/) |
 
 ### 🧩 Extensões Google Chrome & Produtividade MV3
