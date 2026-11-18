@@ -345,7 +345,6 @@
 | **GhostZap** | Mensageiro Criptografado E2EE Anti-Forense com IA | [Código](https://github.com/4u-Labs/ghostzap) | [Acessar App](https://4u.ia.br/app/zap/) |
 | **AuthPass** | Autenticador 2FA (TOTP) PWA Zero-Knowledge com Backup Google Drive | [Código](https://github.com/4u-Labs/authpass) | [Acessar App](https://4u.ia.br/app/authpass/) |
 | **SecureON Wallet** | Carteira Cripto Web3 Não-Custodial (Ethereum & Tokens ERC-20) com Criptografia Local AES-256-GCM 100% no Navegador | [Código](https://github.com/4u-Labs/wallet) | [Acessar App](https://4u.ia.br/app/wallet/) |
-| **SafeBox** | Cofre de Senhas Offline com Criptografia Militar AES-256 Zero-Knowledge e Armazenamento Local Privado | [Código](https://github.com/4u-Labs/safebox) | [Acessar App](https://4u.ia.br/app/safebox/) |
 
 ### 🎨 Design, Mídia & Criação
 | Aplicação | Descrição | Repositório | Demonstração |
