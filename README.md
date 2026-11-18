@@ -329,6 +329,9 @@
 | **CamObra Pro** | Câmera Técnica de Engenharia & Infraestrutura com Carimbo de Campo, Coordenadas UTM, Nível de Bolha Virtual, Bússola e Emissão de Laudos Técnicos | [Código](https://github.com/4u-Labs/camobra) | [Acessar App](https://4u.ia.br/app/camobra/) |
 | **ColaBox 4U** | Gerador de Resumos e Fichas Compactas para Provas e Estudos em Folha A4 com Colunas Ajustáveis e Máxima Densidade Visual | [Código](https://github.com/4u-Labs/colabox) | [Acessar App](https://4u.ia.br/app/colabox/) |
 | **AutoCare Pro** | Gestão Inteligente de Manutenção Automotiva, Consumo de Combustível, Calculadora Flex e Backup Direto no Google Drive com Total Privacidade | [Código](https://github.com/4u-Labs/veiculo) | [Acessar App](https://4u.ia.br/app/veiculo/) |
+| **CADFÁCIL 3D** | Leitor e Editor CAD DWG/DXF 3D Profissional no Navegador com Inspeção de Camadas e Medição de Alta Precisão | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cad/) |
+| **Convert Pro** | Conversor Universal de Arquivos 100% Local para PDF, Imagens, Planilhas e Código com Privacidade Total | [Código](https://github.com/4u-Labs/convert) | [Acessar App](https://4u.ia.br/app/convert/) |
+| **vCard Executive NFC** | Cartão de Visitas Virtual Interativo 3D Bilíngue PT/EN com 12 Temas, QR Code Dinâmico, Exportação `.vcf` e Gravação Direta Web NFC | [Código](https://github.com/4u-Labs/vcard) | [Acessar App](https://4u.ia.br/app/vcard/) |
 
 ### 🛡️ Segurança, Privacidade & Transparência Pública
 | Aplicação | Descrição | Repositório | Demonstração |
@@ -342,12 +345,13 @@
 | **GhostZap** | Mensageiro Criptografado E2EE Anti-Forense com IA | [Código](https://github.com/4u-Labs/ghostzap) | [Acessar App](https://4u.ia.br/app/zap/) |
 | **AuthPass** | Autenticador 2FA (TOTP) PWA Zero-Knowledge com Backup Google Drive | [Código](https://github.com/4u-Labs/authpass) | [Acessar App](https://4u.ia.br/app/authpass/) |
 | **SecureON Wallet** | Carteira Cripto Web3 Não-Custodial (Ethereum & Tokens ERC-20) com Criptografia Local AES-256-GCM 100% no Navegador | [Código](https://github.com/4u-Labs/wallet) | [Acessar App](https://4u.ia.br/app/wallet/) |
+| **SafeBox** | Cofre de Senhas Offline com Criptografia Militar AES-256 Zero-Knowledge e Armazenamento Local Privado | [Código](https://github.com/4u-Labs/safebox) | [Acessar App](https://4u.ia.br/app/safebox/) |
 
 ### 🎨 Design, Mídia & Criação
 | Aplicação | Descrição | Repositório | Demonstração |
 | :--- | :--- | :---: | :---: |
 | **ClipCut Studio** | Editor de vídeo para Linux, Windows, macOS Intel e Apple Silicon, Android, iOS e navegador: timeline multifaixa, áudio, legendas e exportação local | [Código](https://github.com/4u-Labs/clipcut) · [Release 1.0.0](https://github.com/4u-Labs/clipcut/releases/tag/v1.0.0) | [Acessar App](https://4u.ia.br/app/clipcut/) |
-| **4uMusic** | Player musical com busca oficial, páginas de artistas, mixes ajustáveis, playlists, retomada sincronizada e PWA | — | [Acessar App](https://4u.ia.br/app/4umusic/) |
+| **4uMusic** | Player musical com busca oficial, páginas de artistas, mixes ajustáveis, playlists, retomada sincronizada e PWA | [Código](https://github.com/4u-Labs/4umusic) | [Acessar App](https://4u.ia.br/app/4umusic/) |
 | **OneClick AI** | Estúdio de Imagens PT/EN: Remoção de Fundo U²-Net, Upscale Real-ESRGAN 4×, Efeitos, Retoques por Região, Produtos/Adesivos e Exportação em Lote — Sem APIs de IA Pagas | [Código](https://github.com/4u-Labs/oneclick) | [Acessar App](https://4u.ia.br/app/oneclick/) |
 | **CardCraft Pro** | Gerador Interativo de Cartões Digitais (Link na Bio) & Físicos (85x55mm) com Exportação HTML/PDF/vCard, QR Code Dinâmico e PIX | [Código](https://github.com/4u-Labs/cartao) | [Acessar App](https://4u.ia.br/app/cartao/) |
 | **LinkFree** | Plataforma SaaS de Link na Bio (Linktree Style) com Autenticação Google 1-Click, Gestão de Links, Temas e Redes Sociais | [Código](https://github.com/4u-Labs/linkfree) | [Acessar App](https://4u.ia.br/app/linkfree/) |
@@ -383,6 +387,9 @@
 | **Central das Loterias** | Super App de Análise Estatística, Gerador de Palpites Inteligentes e Fechamentos Combinatórios de Loterias Caixa | [Código](https://github.com/4u-Labs/loterias) | [Acessar App](https://4u.ia.br/app/loterias/) |
 | **Loja Oficial 4U** | Vitrine e Catálogo Oficial de Aplicativos Web, Extensões Chromium, Ferramentas Digitais e Soluções Tecnológicas 4U.IA.BR | [Código](https://github.com/4u-Labs/loja) | [Acessar App](https://4u.ia.br/loja/) |
 | **NFC Lab** | Suíte Web NFC bilíngue (PT/EN) via `NDEFReader` para Leitura & Diagnóstico de Chips NTAG/Mifare (UID, Memória, Hex/ASCII), Gravação Multi-Registro NDEF (URL, vCard, Wi-Fi, WhatsApp, GPS, AAR, MIME), Clonagem, Formatação, Bloqueio, Modo Lote Contínuo & Gerador QR Code PWA | [Código](https://github.com/4u-Labs/nfclab) | [Acessar App](https://4u.ia.br/app/nfclab/) |
+| **Find And Replace Pro** | Localizador e Substituidor Avançado de Texto, Código e Expressões Regulares (RegEx) com Estatísticas em Tempo Real | [Código](https://github.com/4u-Labs/finder) | [Acessar App](https://4u.ia.br/app/finder/) |
+| **Pix & Mais** | Integração Ágil com Checkout Transparente Mercado Pago, QR Code Pix Dinâmico e Webhooks | [Código](https://github.com/4u-Labs/pixemais) | [Acessar App](https://4u.ia.br/app/pixemais/) |
+| **Zap24hs** | Secretária Virtual com IA no WhatsApp 24h para Atendimento Simultâneo, Triagem e Agendamentos Automatizados | [Código](https://github.com/4u-Labs/zap24hs) | [Acessar App](https://4u.ia.br/app/zap24hs/) |
 
 ### 🎙️ Áudio & Retrogaming
 | Aplicação | Descrição | Repositório | Demonstração |
@@ -412,6 +419,7 @@
 | **Game Boy Classic** | Emulador Retrô de Game Boy Clássico no Navegador com Suporte a ROMs, Save State, Paletas Originais e Controles Touch Customizados | [Código](https://github.com/4u-Labs/gameboy) | [Acessar App](https://4u.ia.br/app/gameboy/) |
 | **K7 & Floppy** | Bancada Retrô Dual Real 6502 (Microdigital TK 2000 II + Apple II+) no Navegador com Gravador K7 (.CT2), Drive Disk II 5¼" (.DSK), 160+ Clássicos, Manuais & BASIC PT/EN | [Código](https://github.com/4u-Labs/k7floppy) · [Packs ZIP](https://github.com/4u-Labs/k7floppy/releases/tag/v1.0.0) | [Acessar App](https://4u.ia.br/app/k7floppy/) |
 | **Super Mario Retro** | Recriação Completa do Clássico Super Mario Bros em HTML5 com Física Original, Editor de Fases e Suporte a Teclado/Gamepad | [Código](https://github.com/4u-Labs/supermario) | [Acessar App](https://4u.ia.br/app/supermario/) |
+| **Game & Watch: Mickey Mouse** | Recriação Fiel do Portátil Nintendo MC-25 (1981) em HTML5 Canvas LCD e Web Audio com Modos Game A/B, Relógio e Alarme | [Código](https://github.com/4u-Labs/mickey) | [Acessar App](https://4u.ia.br/app/mickey/) |
 
 ### 🧩 Extensões Google Chrome & Produtividade MV3
 | Extensão | Descrição | Repositório | Chrome Web Store |
