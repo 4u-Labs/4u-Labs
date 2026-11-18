@@ -372,7 +372,7 @@
 | :--- | :--- | :---: | :---: |
 | **VSCode Web** | Editor de Código Online com Destaque de Sintaxe e Abas | [Código](https://github.com/4u-Labs/vscode) | [Acessar App](https://4u.ia.br/app/vscode/) |
 | **AICode Studio** | Assistente de Código com IA e Extensão de Desenvolvimento | [Código](https://github.com/4u-Labs/aicode) | [Acessar App](https://4u.ia.br/app/aicode/) |
-| **Project Flow** | Gerenciador de Projetos e Tarefas com Quadros Kanban | [Código](https://github.com/4u-Labs/project) | [Acessar App](https://4u.ia.br/app/project/) |
+| **Project Flow** | Gerenciador de Projetos e Tarefas com Quadros Kanban | [Código](https://github.com/4u-Labs/project) | [Acessar App](https://4u.ia.br/app/office/project/) |
 | **Gerador 4U** | Central de Utilitários, Gerador de Senhas e QR Codes | [Código](https://github.com/4u-Labs/gerador) | [Acessar App](https://4u.ia.br/app/gerador/) |
 | **VirtualSIM** | Dashboard e Gerenciador de Números Virtuais & SMS | [Código](https://github.com/4u-Labs/virtualsim) | [Acessar App](https://4u.ia.br/app/virtualsim/) |
 | **Sorteador Pro Max** | Plataforma de Sorteios Auditáveis, Roleta Canvas, Bingo 3D, Amigo Secreto & Certificado SHA-256 | [Código](https://github.com/4u-Labs/sorteio) | [Acessar App](https://4u.ia.br/app/sorteio/) |
