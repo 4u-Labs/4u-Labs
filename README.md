@@ -382,6 +382,7 @@
 | **Base64 Studio** | Conversor de Imagens para Base64, Data URI, CSS e HTML com Compressão em Canvas, Suporte a Ctrl+V e Processamento 100% Local | [Código](https://github.com/4u-Labs/code64) | [Acessar App](https://4u.ia.br/app/code64/) |
 | **Central das Loterias** | Super App de Análise Estatística, Gerador de Palpites Inteligentes e Fechamentos Combinatórios de Loterias Caixa | [Código](https://github.com/4u-Labs/loterias) | [Acessar App](https://4u.ia.br/app/loterias/) |
 | **Loja Oficial 4U** | Vitrine e Catálogo Oficial de Aplicativos Web, Extensões Chromium, Ferramentas Digitais e Soluções Tecnológicas 4U.IA.BR | [Código](https://github.com/4u-Labs/loja) | [Acessar App](https://4u.ia.br/loja/) |
+| **NFC Lab** | Suíte Web NFC bilíngue (PT/EN) via `NDEFReader` para Leitura & Diagnóstico de Chips NTAG/Mifare (UID, Memória, Hex/ASCII), Gravação Multi-Registro NDEF (URL, vCard, Wi-Fi, WhatsApp, GPS, AAR, MIME), Clonagem, Formatação, Bloqueio, Modo Lote Contínuo & Gerador QR Code PWA | [Código](https://github.com/4u-Labs/nfclab) | [Acessar App](https://4u.ia.br/app/nfclab/) |
 
 ### 🎙️ Áudio & Retrogaming
 | Aplicação | Descrição | Repositório | Demonstração |
