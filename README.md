@@ -328,7 +328,6 @@
 | **FotoLaudo** | Câmera Técnica & Laudos de Fiscalização de Obras com Telemetria GPS/UTM, Cotas CAD, Inclinômetro 3D e Pranchas Fotográficas em PDF A4 | [Código](https://github.com/4u-Labs/fotolaudo) | [Acessar App](https://4u.ia.br/app/fotolaudo/) |
 | **ColaBox 4U** | Gerador de Resumos e Fichas Compactas para Provas e Estudos em Folha A4 com Colunas Ajustáveis e Máxima Densidade Visual | [Código](https://github.com/4u-Labs/colabox) | [Acessar App](https://4u.ia.br/app/colabox/) |
 | **AutoCare Pro** | Gestão Inteligente de Manutenção Automotiva, Consumo de Combustível, Calculadora Flex e Backup Direto no Google Drive com Total Privacidade | [Código](https://github.com/4u-Labs/veiculo) | [Acessar App](https://4u.ia.br/app/veiculo/) |
-| **CADFÁCIL 3D** | Leitor e Editor CAD DWG/DXF 3D Profissional no Navegador com Inspeção de Camadas e Medição de Alta Precisão | [Código](https://github.com/4u-Labs/cad) | [Acessar App](https://4u.ia.br/app/cad/) |
 | **Convert Pro** | Conversor Universal de Arquivos 100% Local para PDF, Imagens, Planilhas e Código com Privacidade Total | [Código](https://github.com/4u-Labs/convert) | [Acessar App](https://4u.ia.br/app/convert/) |
 | **vCard Executive NFC** | Cartão de Visitas Virtual Interativo 3D Bilíngue PT/EN com 12 Temas, QR Code Dinâmico, Exportação `.vcf` e Gravação Direta Web NFC | [Código](https://github.com/4u-Labs/vcard) | [Acessar App](https://4u.ia.br/app/vcard/) |
 
