@@ -421,7 +421,6 @@
 ### 🧩 Extensões Google Chrome & Produtividade MV3
 | Extensão | Descrição | Repositório | Chrome Web Store |
 | :--- | :--- | :---: | :---: |
-| **4uCapture** | Captura com um Clique, Marcações Editáveis, Lupa, Mosaico, OCR Local PT/EN, Projetos e Rascunho Opcional; Página Inteira e Web Studio | [Código](https://github.com/4u-Labs/4ucapture) | [Acessar Web Studio](https://4u.ia.br/app/4uCapture/) |
 | **PrintScreen Editor & Capture** | Captura de Tela Completa/Área, Anotações Visuais e Gravação MV3 | [Código](https://github.com/4u-Labs/printscreencapture) | [Chrome Web Store](https://chromewebstore.google.com/detail/printscreen-editor/phaefdkhihopjdjlnjjkhdohjloacaci) |
 | **4uPass Extension** | Extensão Cofre Zero-Knowledge PT/EN (AES-256), Preenchimento Automático e Gerador 2FA TOTP | [Acessar Web](https://4u.ia.br/app/pass/) | [Chrome Web Store](https://chromewebstore.google.com/detail/4upass/mfapofjbdafmddkjipeplanohnchfnnc) |
 | **TubeMind AI** | Copiloto de IA para YouTube com Resumos e Transcrições em Tempo Real | [Código](https://github.com/4u-Labs/tubemind) | [Chrome Web Store](https://chromewebstore.google.com/detail/tubemind-ai-%E2%80%94-copiloto-de/hdgfepfflkidaakpgjhjokeakhoojgea) |
