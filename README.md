@@ -374,7 +374,7 @@
 | **VirtualSIM** | Dashboard e Gerenciador de Números Virtuais & SMS | [Código](https://github.com/4u-Labs/virtualsim) | [Acessar App](https://4u.ia.br/app/virtualsim/) |
 | **Sorteador Pro Max** | Plataforma de Sorteios Auditáveis, Roleta Canvas, Bingo 3D, Amigo Secreto & Certificado SHA-256 | [Código](https://github.com/4u-Labs/sorteio) | [Acessar App](https://4u.ia.br/app/sorteio/) |
 | **AGENDOU** | Plataforma SaaS de Agendamentos Online para Barbearias e Serviços, Integração Dupla Google Agenda & WhatsApp | [Código](https://github.com/4u-Labs/agendou) | [Acessar App](https://4u.ia.br/app/agendou/) |
-| **LavExpress** | SaaS de Gestão de Lavanderia, PDV e Impressão Térmica | [Código](https://github.com/4u-Labs/lavexpress) | [Acessar App](https://4u.ia.br/app/demolavanderia/) |
+| **LavExpress** | SaaS de Gestão de Lavanderia, PDV e Impressão Térmica | [Código](https://github.com/4u-Labs/lavexpress) | [Acessar App](https://4u.ia.br/saas/sist/lavanderia/) |
 | **ListaFácil Pro** | Gerador Universal de Estrutura de Arquivos, Árvore ASCII para IA, Planilhas CSV & Auditoria de Disco | [Código](https://github.com/4u-Labs/listafacil) | [Acessar App](https://4u.ia.br/app/listafacil/) |
 | **Code Optimizer** | Minificador Seguro, Beautifier, Diff Viewer & Otimizador Web Multi-Linguagem (JS, CSS, HTML, JSON, SQL, SVG, YAML) | [Código](https://github.com/4u-Labs/minifier) | [Acessar App](https://4u.ia.br/app/minifier/) |
 | **BAIXOU!!** | Baixador de Vídeos Autorizados (YouTube, X, TikTok, Instagram, Vimeo), Extrator de Áudio MP3 em Alta Fidelidade e Transcrição Automática (TXT, MD, SRT) com Player e Busca | [Código](https://github.com/4u-Labs/baixou) | [Acessar App](https://4u.ia.br/app/baixou/) |
@@ -428,6 +428,16 @@
 | **SecureON Wallet** | Carteira Web3 para Gerenciamento Local e Seguro de Ativos Cripto | [Código](https://github.com/4u-Labs/secureon-wallet) | [Chrome Web Store](https://chromewebstore.google.com/detail/secureon-wallet/cogicncjnekflhknncnohfmnlgfgdede) |
 | **Zero Cache** | Limpeza Rápida e Profunda de Cache, Cookies e Privacidade Instantânea | [Código](https://github.com/4u-Labs/zerocache) | [Chrome Web Store](https://chromewebstore.google.com/detail/zero-cache/bndhihaknfhlelindibhbjknmadihmca) |
 | **AuthPass Extension** | Autenticador 2FA (TOTP) Pop-up com Criptografia Zero-Knowledge | [Código](https://github.com/4u-Labs/authpass-extension) | [Acessar](https://chromewebstore.google.com/search/4u.ia.br) |
+
+### 🏢 Plataformas SaaS & Portais 4U.IA.BR
+| Plataforma | Descrição | Origem | Demonstração |
+| :--- | :--- | :---: | :---: |
+| **Barber Pro** | Gestão Completa de Barbearias com Agendamento Online, Comissões e Combos Pré-Pagos | SaaS 4U | [Acessar Demo](https://4u.ia.br/saas/sist/barbearia/) |
+| **GymManager** | Sistema de Gestão para Academias & Estúdios Fitness com Treinos e Matrículas | SaaS 4U | [Acessar Demo](https://4u.ia.br/saas/sist/academia/) |
+| **OdontoManager Pro** | Gestão Completa para Clínicas Odontológicas, Prontuários e Agenda | SaaS 4U | [Acessar Demo](https://4u.ia.br/saas/sist/odonto/) |
+| **Pizza Pro** | Cardápio Digital, Pedidos e Gestão Integrada para Pizzarias & Delivery | SaaS 4U | [Acessar Demo](https://4u.ia.br/saas/sist/pizza/) |
+| **TechFlow** | Plataforma Oficial de Blog Tech com IA Integrada & Painel SEO | Portal 4U | [Acessar Portal](https://4u.ia.br/blog/) |
+| **ShortUrl** | Encurtador Oficial de Links com QR Code e Estatísticas em Tempo Real | Portal 4U | [Acessar Ferramenta](https://4u.ia.br/links.php) |
 
 ---
 
